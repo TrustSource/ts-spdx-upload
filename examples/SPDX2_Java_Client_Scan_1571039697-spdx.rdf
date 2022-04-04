@@ -1,0 +1,453 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+<spdx:SpdxDocument rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-DOCUMENT">
+  <spdx:specVersion>SPDX-2.1</spdx:specVersion>
+  <spdx:dataLicense rdf:resource="http://spdx.org/licenses/CC0-1.0" />
+  <spdx:creationInfo>
+    <spdx:CreationInfo>
+      <spdx:licenseListVersion>2.6</spdx:licenseListVersion>
+      <spdx:creator>Person: fossy (y)</spdx:creator>
+<!--       <spdx:creator>Organization: </spdx:creator> -->
+      <spdx:creator>Tool: spdx2</spdx:creator>
+      <spdx:created>2019-10-14T07:54:57Z</spdx:created>
+    </spdx:CreationInfo>
+  </spdx:creationInfo>
+  <spdx:name>/srv/fossology/repository/report</spdx:name>
+  <rdfs:comment>
+    This document was created using license information and a generator from Fossology.
+  </rdfs:comment>
+    <spdx:hasExtractedLicensingInfo>
+    <spdx:ExtractedLicensingInfo rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#LicenseRef-No_license_found">
+      <spdx:licenseId>LicenseRef-No_license_found</spdx:licenseId>
+      <spdx:name>No_license_found</spdx:name>
+      <spdx:extractedText><![CDATA[
+Not find any license in the scanned file
+      ]]></spdx:extractedText>
+    </spdx:ExtractedLicensingInfo>
+  </spdx:hasExtractedLicensingInfo>
+  <spdx:relationship>
+    <spdx:Relationship>
+      <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_describes" />
+      <spdx:relatedSpdxElement>
+        <spdx:Package rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-upload4">
+          <spdx:name>Java Client Scan</spdx:name>
+          <spdx:packageFileName>Java Client Scan</spdx:packageFileName>
+          <spdx:downloadLocation rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+          <spdx:packageVerificationCode>
+            <spdx:PackageVerificationCode>
+            <spdx:packageVerificationCodeValue>f18ea003f5612af2d5426d4f5a38bde4d67e11c1</spdx:packageVerificationCodeValue>
+            </spdx:PackageVerificationCode>
+          </spdx:packageVerificationCode>
+          <spdx:checksum>
+<!--             <spdx:Checksum>
+              <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+              <spdx:checksumValue>105bd5e40f9dbde3260a2e6140b801f60a90980b</spdx:checksumValue>
+            </spdx:Checksum> -->
+          </spdx:checksum>
+          <spdx:checksum> 
+            <spdx:Checksum>
+              <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+              <spdx:checksumValue>c5ab4006c902f999270dafc6c06adc5b</spdx:checksumValue>
+            </spdx:Checksum>
+          </spdx:checksum>
+<!--           <spdx:licenseConcluded>
+            <spdx:DisjunctiveLicenseSet>
+              </spdx:DisjunctiveLicenseSet>
+          </spdx:licenseConcluded> -->
+          <spdx:licenseComments><![CDATA[
+            licenseInfoInFile determined by Scanners:
+   - nomos ("3.6.0-41-gd1a900b9d".d1a900)
+   - monk ("3.6.0-41-gd1a900b9d".d1a900)
+          ]]></spdx:licenseComments>
+          <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+          <spdx:licenseDeclared rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+          <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+          <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+          
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-item5100">
+                <spdx:fileName>.travis.yml</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>c586802e0571fb049489cc6d1842b883ae4c9266</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>f517ff062e2d4289b28528ed1b8ed7aa</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-item5102">
+                <spdx:fileName>LICENSE</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>1e8b6512c74fe70e1cf2c9c3ec8aa1f415e4ae72</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>246ba4cef1753c64c00ae08980702a92</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016 EACG GmbH
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-item5113">
+                <spdx:fileName>src/test/java/de/eacg/ecs/client/RestClientTest.java</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>fd361af3a601690aeeb8b4ea80a7dd0606a10ef8</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>a842b49012d9f1e3c8c3985ce0f4b64c</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-item5115">
+                <spdx:fileName>src/test/java/de/eacg/ecs/client/DependencyBuilderTest.java</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>4d5f7ad1f6bec7105967b074fce41d98a08811c8</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>6dadf8ef99bcfd46ee1ca77832c7dfa8</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-item5117">
+                <spdx:fileName>src/test/java/de/eacg/ecs/client/JsonPropertiesTest.java</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>592c73718bae736848e1d81acc9ec878e790c84e</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>7b19d274903af87a563776e910f7511b</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-item5121">
+                <spdx:fileName>src/test/resources/test.json</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>8135a1a800dc2fd68a7c21431f489e4364dd0d89</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>5c2db624ec47f241acc102dc16186217</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-item5132">
+                <spdx:fileName>src/main/java/de/eacg/ecs/client/CheckError.java</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>6262adc9f583fb4f662e9a4fbc902bbe6be10bbb</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>6c04989418c2eb3f4a57191285841e3a</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-item5133">
+                <spdx:fileName>src/main/java/de/eacg/ecs/client/License.java</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>3368365359fa604833cffd0db33a68a066b28891</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>6b42d1828be0eb1fddd05798dec0b04b</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-item5136">
+                <spdx:fileName>src/main/java/de/eacg/ecs/client/Scan.java</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>9ae579287f7171b7eaf2878eb24535e818bc0b82</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>90a42fd98e1d3cbfd6db3eca52441963</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-item5137">
+                <spdx:fileName>src/main/java/de/eacg/ecs/client/Component.java</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>fd79d612e28912518666833f037741551f3b43fa</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>028d610259b846f24ad5d461320b70ea</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-item5139">
+                <spdx:fileName>src/main/java/de/eacg/ecs/client/Check.java</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>173c85f3d4edccfa3c770954f9c2691f86dcf225</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>f7251b8b60cb95412851551678da22b8</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-item5143">
+                <spdx:fileName>src/main/java/de/eacg/ecs/client/RestClient.java</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>c64b96dfca261394d6b350645f836cae625d11eb</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>64e0c5dddf7358d7fe40fb1bddd4696a</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-item5145">
+                <spdx:fileName>src/main/java/de/eacg/ecs/client/JsonProperties.java</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>ef7f10cdcf77295b7d3f4b8fbbda7a27f9b06670</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>470c2c032144983b710d25adb2183a94</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-item5148">
+                <spdx:fileName>src/main/java/de/eacg/ecs/client/Dependency.java</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>8b08b663dfedd42d82f0dd074eb06f99105cc926</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>d05a9c96ffead2ea26a5e0eae7f08a3d</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-item5151">
+                <spdx:fileName>src/main/java/de/eacg/ecs/client/CheckResults.java</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>6cf8014cfa8baa49fcb31f0bfda1b8adde6ceaf9</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>3685153edaf824ebf6435dde0e5b0071</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-item5159">
+                <spdx:fileName>pom.xml</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>6898cb69b08bce2009aa6c8df532a73508ee45f3</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>e6cb93b7bdcd23b4708005c335558cf3</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Java_Client_Scan_1571039697-spdx.rdf#SPDXRef-item5161">
+                <spdx:fileName>README.md</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>394c0e0fe7a72df84ad89d0858e40a8cb17cae1c</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>2243202e13e157e7b18a53d74d9f30cf</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+        </spdx:Package>
+      </spdx:relatedSpdxElement>
+    </spdx:Relationship>
+  </spdx:relationship>
+  
+</spdx:SpdxDocument>
+</rdf:RDF>

@@ -1,0 +1,5624 @@
+{
+  "module": "ts-typesense",
+  "moduleId": "spdx:ts-typesense",
+  "project": "DockerScans",
+  "dependencies": [
+    {
+      "key": "pypi:about-time",
+      "name": "about-time",
+      "versions": [
+        "pkg:pypi/about-time@3.1.1"
+      ],
+      "licenses": [
+        {
+          "name": "MIT",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:adduser",
+      "name": "adduser",
+      "versions": [
+        "pkg:deb/ubuntu/adduser@3.118ubuntu2?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "pypi:alive-progress",
+      "name": "alive-progress",
+      "versions": [
+        "pkg:pypi/alive-progress@2.1.0"
+      ],
+      "licenses": [
+        {
+          "name": "MIT",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:apt",
+      "name": "apt",
+      "versions": [
+        "pkg:deb/ubuntu/apt@2.0.2ubuntu0.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:base-files",
+      "name": "base-files",
+      "versions": [
+        "pkg:deb/ubuntu/base-files@11ubuntu5.2?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:base-passwd",
+      "name": "base-passwd",
+      "versions": [
+        "pkg:deb/ubuntu/base-passwd@3.5.47?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:bash",
+      "name": "bash",
+      "versions": [
+        "pkg:deb/ubuntu/bash@5.0-6ubuntu1.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:binutils",
+      "name": "binutils",
+      "versions": [
+        "pkg:deb/ubuntu/binutils@2.34-6ubuntu1.3?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:binutils-common",
+      "name": "binutils-common",
+      "versions": [
+        "pkg:deb/ubuntu/binutils-common@2.34-6ubuntu1.3?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:binutils-x86-64-linux-gnu",
+      "name": "binutils-x86-64-linux-gnu",
+      "versions": [
+        "pkg:deb/ubuntu/binutils-x86-64-linux-gnu@2.34-6ubuntu1.3?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:bsdutils",
+      "name": "bsdutils",
+      "versions": [
+        "pkg:deb/ubuntu/bsdutils@1:2.34-0.1ubuntu9.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-2-Clause",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "MIT",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "BSD-4-Clause",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:build-essential",
+      "name": "build-essential",
+      "versions": [
+        "pkg:deb/ubuntu/build-essential@12.8ubuntu1.1?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:bzip2",
+      "name": "bzip2",
+      "versions": [
+        "pkg:deb/ubuntu/bzip2@1.0.8-2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:ca-certificates",
+      "name": "ca-certificates",
+      "versions": [
+        "pkg:deb/ubuntu/ca-certificates@20210119~20.04.2?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "MPL-2.0",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "pypi:certifi",
+      "name": "certifi",
+      "versions": [
+        "pkg:pypi/certifi@2021.10.8"
+      ],
+      "licenses": [
+        {
+          "name": "MPL-2.0",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "pypi:charset-normalizer",
+      "name": "charset-normalizer",
+      "versions": [
+        "pkg:pypi/charset-normalizer@2.0.9"
+      ],
+      "licenses": [
+        {
+          "name": "MIT",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "pypi:click",
+      "name": "click",
+      "versions": [
+        "pkg:pypi/click@8.0.3"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:coreutils",
+      "name": "coreutils",
+      "versions": [
+        "pkg:deb/ubuntu/coreutils@8.30-3ubuntu2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "pypi:cpe",
+      "name": "cpe",
+      "versions": [
+        "pkg:pypi/cpe@1.2.1"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:cpp",
+      "name": "cpp",
+      "versions": [
+        "pkg:deb/ubuntu/cpp@4:9.3.0-1ubuntu2?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:cpp-9",
+      "name": "cpp-9",
+      "versions": [
+        "pkg:deb/ubuntu/cpp-9@9.3.0-17ubuntu1~20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:dash",
+      "name": "dash",
+      "versions": [
+        "pkg:deb/ubuntu/dash@0.5.10.2-6?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:debconf",
+      "name": "debconf",
+      "versions": [
+        "pkg:deb/ubuntu/debconf@1.5.73?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-2-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:debianutils",
+      "name": "debianutils",
+      "versions": [
+        "pkg:deb/ubuntu/debianutils@4.9.1?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:diffutils",
+      "name": "diffutils",
+      "versions": [
+        "pkg:deb/ubuntu/diffutils@1:3.7-3?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:dirmngr",
+      "name": "dirmngr",
+      "versions": [
+        "pkg:deb/ubuntu/dirmngr@2.2.19-3ubuntu2.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "CC0-1.0",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:dpkg",
+      "name": "dpkg",
+      "versions": [
+        "pkg:deb/ubuntu/dpkg@1.19.7ubuntu3?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-2-Clause",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:dpkg-dev",
+      "name": "dpkg-dev",
+      "versions": [
+        "pkg:deb/ubuntu/dpkg-dev@1.19.7ubuntu3?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-2-Clause",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:e2fsprogs",
+      "name": "e2fsprogs",
+      "versions": [
+        "pkg:deb/ubuntu/e2fsprogs@1.45.5-2ubuntu1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:fakeroot",
+      "name": "fakeroot",
+      "versions": [
+        "pkg:deb/ubuntu/fakeroot@1.24-1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:fdisk",
+      "name": "fdisk",
+      "versions": [
+        "pkg:deb/ubuntu/fdisk@2.34-0.1ubuntu9.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-2-Clause",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "MIT",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "BSD-4-Clause",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:file",
+      "name": "file",
+      "versions": [
+        "pkg:deb/ubuntu/file@1:5.38-4?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-2-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:findutils",
+      "name": "findutils",
+      "versions": [
+        "pkg:deb/ubuntu/findutils@4.7.0-1ubuntu1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GFDL-1.3-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:g++",
+      "name": "g++",
+      "versions": [
+        "pkg:deb/ubuntu/g++@4:9.3.0-1ubuntu2?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:g++-9",
+      "name": "g++-9",
+      "versions": [
+        "pkg:deb/ubuntu/g++-9@9.3.0-17ubuntu1~20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:gcc",
+      "name": "gcc",
+      "versions": [
+        "pkg:deb/ubuntu/gcc@4:9.3.0-1ubuntu2?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:gcc-10-base",
+      "name": "gcc-10-base",
+      "versions": [
+        "pkg:deb/ubuntu/gcc-10-base@10.3.0-1ubuntu1~20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:gcc-9",
+      "name": "gcc-9",
+      "versions": [
+        "pkg:deb/ubuntu/gcc-9@9.3.0-17ubuntu1~20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:gcc-9-base",
+      "name": "gcc-9-base",
+      "versions": [
+        "pkg:deb/ubuntu/gcc-9-base@9.3.0-17ubuntu1~20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:gnupg",
+      "name": "gnupg",
+      "versions": [
+        "pkg:deb/ubuntu/gnupg@2.2.19-3ubuntu2.1?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "CC0-1.0",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:gnupg-l10n",
+      "name": "gnupg-l10n",
+      "versions": [
+        "pkg:deb/ubuntu/gnupg-l10n@2.2.19-3ubuntu2.1?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "CC0-1.0",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:gnupg-utils",
+      "name": "gnupg-utils",
+      "versions": [
+        "pkg:deb/ubuntu/gnupg-utils@2.2.19-3ubuntu2.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "CC0-1.0",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:gpg",
+      "name": "gpg",
+      "versions": [
+        "pkg:deb/ubuntu/gpg@2.2.19-3ubuntu2.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "CC0-1.0",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:gpg-agent",
+      "name": "gpg-agent",
+      "versions": [
+        "pkg:deb/ubuntu/gpg-agent@2.2.19-3ubuntu2.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "CC0-1.0",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:gpg-wks-client",
+      "name": "gpg-wks-client",
+      "versions": [
+        "pkg:deb/ubuntu/gpg-wks-client@2.2.19-3ubuntu2.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "CC0-1.0",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:gpg-wks-server",
+      "name": "gpg-wks-server",
+      "versions": [
+        "pkg:deb/ubuntu/gpg-wks-server@2.2.19-3ubuntu2.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "CC0-1.0",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:gpgconf",
+      "name": "gpgconf",
+      "versions": [
+        "pkg:deb/ubuntu/gpgconf@2.2.19-3ubuntu2.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "CC0-1.0",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:gpgsm",
+      "name": "gpgsm",
+      "versions": [
+        "pkg:deb/ubuntu/gpgsm@2.2.19-3ubuntu2.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "CC0-1.0",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:gpgv",
+      "name": "gpgv",
+      "versions": [
+        "pkg:deb/ubuntu/gpgv@2.2.19-3ubuntu2.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "CC0-1.0",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "pypi:grapheme",
+      "name": "grapheme",
+      "versions": [
+        "pkg:pypi/grapheme@0.6.0"
+      ],
+      "licenses": [
+        {
+          "name": "MIT",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:grep",
+      "name": "grep",
+      "versions": [
+        "pkg:deb/ubuntu/grep@3.4-1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:gzip",
+      "name": "gzip",
+      "versions": [
+        "pkg:deb/ubuntu/gzip@1.10-0ubuntu4?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:hostname",
+      "name": "hostname",
+      "versions": [
+        "pkg:deb/ubuntu/hostname@3.23?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "pypi:idna",
+      "name": "idna",
+      "versions": [
+        "pkg:pypi/idna@3.3"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:init-system-helpers",
+      "name": "init-system-helpers",
+      "versions": [
+        "pkg:deb/ubuntu/init-system-helpers@1.57?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libacl1",
+      "name": "libacl1",
+      "versions": [
+        "pkg:deb/ubuntu/libacl1@2.2.53-6?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libalgorithm-diff-perl",
+      "name": "libalgorithm-diff-perl",
+      "versions": [
+        "pkg:deb/ubuntu/libalgorithm-diff-perl@1.19.03-2?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-1.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-1.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libalgorithm-diff-xs-perl",
+      "name": "libalgorithm-diff-xs-perl",
+      "versions": [
+        "pkg:deb/ubuntu/libalgorithm-diff-xs-perl@0.04-6?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-1.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-1.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libalgorithm-merge-perl",
+      "name": "libalgorithm-merge-perl",
+      "versions": [
+        "pkg:deb/ubuntu/libalgorithm-merge-perl@0.08-3?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-1.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-1.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libapt-pkg6.0",
+      "name": "libapt-pkg6.0",
+      "versions": [
+        "pkg:deb/ubuntu/libapt-pkg6.0@2.0.2ubuntu0.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libasan5",
+      "name": "libasan5",
+      "versions": [
+        "pkg:deb/ubuntu/libasan5@9.3.0-17ubuntu1~20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libasn1-8-heimdal",
+      "name": "libasn1-8-heimdal",
+      "versions": [
+        "pkg:deb/ubuntu/libasn1-8-heimdal@7.7.0+dfsg-1ubuntu1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libassuan0",
+      "name": "libassuan0",
+      "versions": [
+        "pkg:deb/ubuntu/libassuan0@2.5.3-7ubuntu2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libatomic1",
+      "name": "libatomic1",
+      "versions": [
+        "pkg:deb/ubuntu/libatomic1@10.3.0-1ubuntu1~20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libattr1",
+      "name": "libattr1",
+      "versions": [
+        "pkg:deb/ubuntu/libattr1@1:2.4.48-5?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libaudit-common",
+      "name": "libaudit-common",
+      "versions": [
+        "pkg:deb/ubuntu/libaudit-common@1:2.8.5-2ubuntu6?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-1.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libaudit1",
+      "name": "libaudit1",
+      "versions": [
+        "pkg:deb/ubuntu/libaudit1@1:2.8.5-2ubuntu6?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-1.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libbinutils",
+      "name": "libbinutils",
+      "versions": [
+        "pkg:deb/ubuntu/libbinutils@2.34-6ubuntu1.3?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libblkid1",
+      "name": "libblkid1",
+      "versions": [
+        "pkg:deb/ubuntu/libblkid1@2.34-0.1ubuntu9.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-2-Clause",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "MIT",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "BSD-4-Clause",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libbz2-1.0",
+      "name": "libbz2-1.0",
+      "versions": [
+        "pkg:deb/ubuntu/libbz2-1.0@1.0.8-2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libc-bin",
+      "name": "libc-bin",
+      "versions": [
+        "pkg:deb/ubuntu/libc-bin@2.31-0ubuntu9.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libc-dev-bin",
+      "name": "libc-dev-bin",
+      "versions": [
+        "pkg:deb/ubuntu/libc-dev-bin@2.31-0ubuntu9.2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libc6",
+      "name": "libc6",
+      "versions": [
+        "pkg:deb/ubuntu/libc6@2.31-0ubuntu9.2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libc6-dev",
+      "name": "libc6-dev",
+      "versions": [
+        "pkg:deb/ubuntu/libc6-dev@2.31-0ubuntu9.2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libcap-ng0",
+      "name": "libcap-ng0",
+      "versions": [
+        "pkg:deb/ubuntu/libcap-ng0@0.7.9-2.1build1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libcc1-0",
+      "name": "libcc1-0",
+      "versions": [
+        "pkg:deb/ubuntu/libcc1-0@10.3.0-1ubuntu1~20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libcom-err2",
+      "name": "libcom-err2",
+      "versions": [
+        "pkg:deb/ubuntu/libcom-err2@1.45.5-2ubuntu1?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libcrypt-dev",
+      "name": "libcrypt-dev",
+      "versions": [
+        "pkg:deb/ubuntu/libcrypt-dev@1:4.4.10-10ubuntu4?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libcrypt1",
+      "name": "libcrypt1",
+      "versions": [
+        "pkg:deb/ubuntu/libcrypt1@1:4.4.10-10ubuntu4?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libctf-nobfd0",
+      "name": "libctf-nobfd0",
+      "versions": [
+        "pkg:deb/ubuntu/libctf-nobfd0@2.34-6ubuntu1.3?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libctf0",
+      "name": "libctf0",
+      "versions": [
+        "pkg:deb/ubuntu/libctf0@2.34-6ubuntu1.3?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libdb5.3",
+      "name": "libdb5.3",
+      "versions": [
+        "pkg:deb/ubuntu/libdb5.3@5.3.28+dfsg1-0.6ubuntu2?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libdebconfclient0",
+      "name": "libdebconfclient0",
+      "versions": [
+        "pkg:deb/ubuntu/libdebconfclient0@0.251ubuntu1?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libdpkg-perl",
+      "name": "libdpkg-perl",
+      "versions": [
+        "pkg:deb/ubuntu/libdpkg-perl@1.19.7ubuntu3?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-2-Clause",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libexpat1",
+      "name": "libexpat1",
+      "versions": [
+        "pkg:deb/ubuntu/libexpat1@2.2.9-1build1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "MIT",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libexpat1-dev",
+      "name": "libexpat1-dev",
+      "versions": [
+        "pkg:deb/ubuntu/libexpat1-dev@2.2.9-1build1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "MIT",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libext2fs2",
+      "name": "libext2fs2",
+      "versions": [
+        "pkg:deb/ubuntu/libext2fs2@1.45.5-2ubuntu1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libfakeroot",
+      "name": "libfakeroot",
+      "versions": [
+        "pkg:deb/ubuntu/libfakeroot@1.24-1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libfdisk1",
+      "name": "libfdisk1",
+      "versions": [
+        "pkg:deb/ubuntu/libfdisk1@2.34-0.1ubuntu9.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-2-Clause",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "MIT",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "BSD-4-Clause",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libffi7",
+      "name": "libffi7",
+      "versions": [
+        "pkg:deb/ubuntu/libffi7@3.3-4?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libfile-fcntllock-perl",
+      "name": "libfile-fcntllock-perl",
+      "versions": [
+        "pkg:deb/ubuntu/libfile-fcntllock-perl@0.22-3build4?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-1.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-1.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libgcc-9-dev",
+      "name": "libgcc-9-dev",
+      "versions": [
+        "pkg:deb/ubuntu/libgcc-9-dev@9.3.0-17ubuntu1~20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libgcc-s1",
+      "name": "libgcc-s1",
+      "versions": [
+        "pkg:deb/ubuntu/libgcc-s1@10.3.0-1ubuntu1~20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libgcrypt20",
+      "name": "libgcrypt20",
+      "versions": [
+        "pkg:deb/ubuntu/libgcrypt20@1.8.5-5ubuntu1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libgdbm-compat4",
+      "name": "libgdbm-compat4",
+      "versions": [
+        "pkg:deb/ubuntu/libgdbm-compat4@1.18.1-5?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libgdbm6",
+      "name": "libgdbm6",
+      "versions": [
+        "pkg:deb/ubuntu/libgdbm6@1.18.1-5?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libgmp10",
+      "name": "libgmp10",
+      "versions": [
+        "pkg:deb/ubuntu/libgmp10@2:6.2.0+dfsg-4?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libgnutls30",
+      "name": "libgnutls30",
+      "versions": [
+        "pkg:deb/ubuntu/libgnutls30@3.6.13-2ubuntu1.3?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "Apache-2.0",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.3-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libgomp1",
+      "name": "libgomp1",
+      "versions": [
+        "pkg:deb/ubuntu/libgomp1@10.3.0-1ubuntu1~20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libgpg-error0",
+      "name": "libgpg-error0",
+      "versions": [
+        "pkg:deb/ubuntu/libgpg-error0@1.37-1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libgssapi3-heimdal",
+      "name": "libgssapi3-heimdal",
+      "versions": [
+        "pkg:deb/ubuntu/libgssapi3-heimdal@7.7.0+dfsg-1ubuntu1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libhcrypto4-heimdal",
+      "name": "libhcrypto4-heimdal",
+      "versions": [
+        "pkg:deb/ubuntu/libhcrypto4-heimdal@7.7.0+dfsg-1ubuntu1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libheimbase1-heimdal",
+      "name": "libheimbase1-heimdal",
+      "versions": [
+        "pkg:deb/ubuntu/libheimbase1-heimdal@7.7.0+dfsg-1ubuntu1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libheimntlm0-heimdal",
+      "name": "libheimntlm0-heimdal",
+      "versions": [
+        "pkg:deb/ubuntu/libheimntlm0-heimdal@7.7.0+dfsg-1ubuntu1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libhogweed5",
+      "name": "libhogweed5",
+      "versions": [
+        "pkg:deb/ubuntu/libhogweed5@3.5.1+really3.5.1-2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libhx509-5-heimdal",
+      "name": "libhx509-5-heimdal",
+      "versions": [
+        "pkg:deb/ubuntu/libhx509-5-heimdal@7.7.0+dfsg-1ubuntu1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libidn2-0",
+      "name": "libidn2-0",
+      "versions": [
+        "pkg:deb/ubuntu/libidn2-0@2.2.0-2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libisl22",
+      "name": "libisl22",
+      "versions": [
+        "pkg:deb/ubuntu/libisl22@0.22.1-1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-2-Clause",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        },
+        {
+          "name": "MIT",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libitm1",
+      "name": "libitm1",
+      "versions": [
+        "pkg:deb/ubuntu/libitm1@10.3.0-1ubuntu1~20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libkrb5-26-heimdal",
+      "name": "libkrb5-26-heimdal",
+      "versions": [
+        "pkg:deb/ubuntu/libkrb5-26-heimdal@7.7.0+dfsg-1ubuntu1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libksba8",
+      "name": "libksba8",
+      "versions": [
+        "pkg:deb/ubuntu/libksba8@1.3.5-2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libldap-2.4-2",
+      "name": "libldap-2.4-2",
+      "versions": [
+        "pkg:deb/ubuntu/libldap-2.4-2@2.4.49+dfsg-2ubuntu1.8?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libldap-common",
+      "name": "libldap-common",
+      "versions": [
+        "pkg:deb/ubuntu/libldap-common@2.4.49+dfsg-2ubuntu1.8?arch=all"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:liblocale-gettext-perl",
+      "name": "liblocale-gettext-perl",
+      "versions": [
+        "pkg:deb/ubuntu/liblocale-gettext-perl@1.07-4?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-1.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-1.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:liblsan0",
+      "name": "liblsan0",
+      "versions": [
+        "pkg:deb/ubuntu/liblsan0@10.3.0-1ubuntu1~20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:liblz4-1",
+      "name": "liblz4-1",
+      "versions": [
+        "pkg:deb/ubuntu/liblz4-1@1.9.2-2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-2-Clause",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:liblzma5",
+      "name": "liblzma5",
+      "versions": [
+        "pkg:deb/ubuntu/liblzma5@5.2.4-1ubuntu1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libmagic-mgc",
+      "name": "libmagic-mgc",
+      "versions": [
+        "pkg:deb/ubuntu/libmagic-mgc@1:5.38-4?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-2-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libmagic1",
+      "name": "libmagic1",
+      "versions": [
+        "pkg:deb/ubuntu/libmagic1@1:5.38-4?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-2-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libmount1",
+      "name": "libmount1",
+      "versions": [
+        "pkg:deb/ubuntu/libmount1@2.34-0.1ubuntu9.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-2-Clause",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "MIT",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "BSD-4-Clause",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libmpc3",
+      "name": "libmpc3",
+      "versions": [
+        "pkg:deb/ubuntu/libmpc3@1.1.0-1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libmpdec2",
+      "name": "libmpdec2",
+      "versions": [
+        "pkg:deb/ubuntu/libmpdec2@2.4.2-3?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libmpfr6",
+      "name": "libmpfr6",
+      "versions": [
+        "pkg:deb/ubuntu/libmpfr6@4.0.2-1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libncurses6",
+      "name": "libncurses6",
+      "versions": [
+        "pkg:deb/ubuntu/libncurses6@6.2-0ubuntu2?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libncursesw6",
+      "name": "libncursesw6",
+      "versions": [
+        "pkg:deb/ubuntu/libncursesw6@6.2-0ubuntu2?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libnettle7",
+      "name": "libnettle7",
+      "versions": [
+        "pkg:deb/ubuntu/libnettle7@3.5.1+really3.5.1-2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libnpth0",
+      "name": "libnpth0",
+      "versions": [
+        "pkg:deb/ubuntu/libnpth0@1.6-1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libp11-kit0",
+      "name": "libp11-kit0",
+      "versions": [
+        "pkg:deb/ubuntu/libp11-kit0@0.23.20-1build1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "ISC",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libpam-modules",
+      "name": "libpam-modules",
+      "versions": [
+        "pkg:deb/ubuntu/libpam-modules@1.3.1-5ubuntu4.1?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libpam-modules-bin",
+      "name": "libpam-modules-bin",
+      "versions": [
+        "pkg:deb/ubuntu/libpam-modules-bin@1.3.1-5ubuntu4.1?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libpam-runtime",
+      "name": "libpam-runtime",
+      "versions": [
+        "pkg:deb/ubuntu/libpam-runtime@1.3.1-5ubuntu4.1?arch=all"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libpam0g",
+      "name": "libpam0g",
+      "versions": [
+        "pkg:deb/ubuntu/libpam0g@1.3.1-5ubuntu4.1?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libpcre2-8-0",
+      "name": "libpcre2-8-0",
+      "versions": [
+        "pkg:deb/ubuntu/libpcre2-8-0@10.34-7?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libpcre3",
+      "name": "libpcre3",
+      "versions": [
+        "pkg:deb/ubuntu/libpcre3@2:8.39-12build1?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libperl5.30",
+      "name": "libperl5.30",
+      "versions": [
+        "pkg:deb/ubuntu/libperl5.30@5.30.0-9ubuntu0.2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "Zlib",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "Artistic-2.0",
+          "url": ""
+        },
+        {
+          "name": "GPL-1.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-1.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libprocps8",
+      "name": "libprocps8",
+      "versions": [
+        "pkg:deb/ubuntu/libprocps8@2:3.3.16-1ubuntu2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libpython3-dev",
+      "name": "libpython3-dev",
+      "versions": [
+        "pkg:deb/ubuntu/libpython3-dev@3.8.2-0ubuntu2?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libpython3-stdlib",
+      "name": "libpython3-stdlib",
+      "versions": [
+        "pkg:deb/ubuntu/libpython3-stdlib@3.8.2-0ubuntu2?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libpython3.8",
+      "name": "libpython3.8",
+      "versions": [
+        "pkg:deb/ubuntu/libpython3.8@3.8.10-0ubuntu1~20.04.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libpython3.8-dev",
+      "name": "libpython3.8-dev",
+      "versions": [
+        "pkg:deb/ubuntu/libpython3.8-dev@3.8.10-0ubuntu1~20.04.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libpython3.8-minimal",
+      "name": "libpython3.8-minimal",
+      "versions": [
+        "pkg:deb/ubuntu/libpython3.8-minimal@3.8.10-0ubuntu1~20.04.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libpython3.8-stdlib",
+      "name": "libpython3.8-stdlib",
+      "versions": [
+        "pkg:deb/ubuntu/libpython3.8-stdlib@3.8.10-0ubuntu1~20.04.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libquadmath0",
+      "name": "libquadmath0",
+      "versions": [
+        "pkg:deb/ubuntu/libquadmath0@10.3.0-1ubuntu1~20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libreadline8",
+      "name": "libreadline8",
+      "versions": [
+        "pkg:deb/ubuntu/libreadline8@8.0-4?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libroken18-heimdal",
+      "name": "libroken18-heimdal",
+      "versions": [
+        "pkg:deb/ubuntu/libroken18-heimdal@7.7.0+dfsg-1ubuntu1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libsasl2-2",
+      "name": "libsasl2-2",
+      "versions": [
+        "pkg:deb/ubuntu/libsasl2-2@2.1.27+dfsg-2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "BSD-4-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libsasl2-modules",
+      "name": "libsasl2-modules",
+      "versions": [
+        "pkg:deb/ubuntu/libsasl2-modules@2.1.27+dfsg-2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "BSD-4-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libsasl2-modules-db",
+      "name": "libsasl2-modules-db",
+      "versions": [
+        "pkg:deb/ubuntu/libsasl2-modules-db@2.1.27+dfsg-2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "BSD-4-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libseccomp2",
+      "name": "libseccomp2",
+      "versions": [
+        "pkg:deb/ubuntu/libseccomp2@2.4.3-1ubuntu3.20.04.3?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libselinux1",
+      "name": "libselinux1",
+      "versions": [
+        "pkg:deb/ubuntu/libselinux1@3.0-1build2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libsemanage-common",
+      "name": "libsemanage-common",
+      "versions": [
+        "pkg:deb/ubuntu/libsemanage-common@3.0-1build2?arch=all"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libsemanage1",
+      "name": "libsemanage1",
+      "versions": [
+        "pkg:deb/ubuntu/libsemanage1@3.0-1build2?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libsepol1",
+      "name": "libsepol1",
+      "versions": [
+        "pkg:deb/ubuntu/libsepol1@3.0-1?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libsmartcols1",
+      "name": "libsmartcols1",
+      "versions": [
+        "pkg:deb/ubuntu/libsmartcols1@2.34-0.1ubuntu9.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-2-Clause",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "MIT",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "BSD-4-Clause",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libsqlite3-0",
+      "name": "libsqlite3-0",
+      "versions": [
+        "pkg:deb/ubuntu/libsqlite3-0@3.31.1-4ubuntu0.2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libss2",
+      "name": "libss2",
+      "versions": [
+        "pkg:deb/ubuntu/libss2@1.45.5-2ubuntu1?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libssl1.1",
+      "name": "libssl1.1",
+      "versions": [
+        "pkg:deb/ubuntu/libssl1.1@1.1.1f-1ubuntu2.10?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libstdc++-9-dev",
+      "name": "libstdc++-9-dev",
+      "versions": [
+        "pkg:deb/ubuntu/libstdc++-9-dev@9.3.0-17ubuntu1~20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libstdc++6",
+      "name": "libstdc++6",
+      "versions": [
+        "pkg:deb/ubuntu/libstdc++6@10.3.0-1ubuntu1~20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libsystemd0",
+      "name": "libsystemd0",
+      "versions": [
+        "pkg:deb/ubuntu/libsystemd0@245.4-4ubuntu3.3?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "CC0-1.0",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libtasn1-6",
+      "name": "libtasn1-6",
+      "versions": [
+        "pkg:deb/ubuntu/libtasn1-6@4.16.0-2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.3-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libtinfo6",
+      "name": "libtinfo6",
+      "versions": [
+        "pkg:deb/ubuntu/libtinfo6@6.2-0ubuntu2?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libtsan0",
+      "name": "libtsan0",
+      "versions": [
+        "pkg:deb/ubuntu/libtsan0@10.3.0-1ubuntu1~20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libubsan1",
+      "name": "libubsan1",
+      "versions": [
+        "pkg:deb/ubuntu/libubsan1@10.3.0-1ubuntu1~20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libudev1",
+      "name": "libudev1",
+      "versions": [
+        "pkg:deb/ubuntu/libudev1@245.4-4ubuntu3.3?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "CC0-1.0",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libunistring2",
+      "name": "libunistring2",
+      "versions": [
+        "pkg:deb/ubuntu/libunistring2@0.9.10-2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "MIT",
+          "url": ""
+        },
+        {
+          "name": "GFDL-1.2-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libuuid1",
+      "name": "libuuid1",
+      "versions": [
+        "pkg:deb/ubuntu/libuuid1@2.34-0.1ubuntu9.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-2-Clause",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "MIT",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "BSD-4-Clause",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libwind0-heimdal",
+      "name": "libwind0-heimdal",
+      "versions": [
+        "pkg:deb/ubuntu/libwind0-heimdal@7.7.0+dfsg-1ubuntu1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:libzstd1",
+      "name": "libzstd1",
+      "versions": [
+        "pkg:deb/ubuntu/libzstd1@1.4.4+dfsg-3?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "Zlib",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:linux-libc-dev",
+      "name": "linux-libc-dev",
+      "versions": [
+        "pkg:deb/ubuntu/linux-libc-dev@5.4.0-91.102?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:login",
+      "name": "login",
+      "versions": [
+        "pkg:deb/ubuntu/login@1:4.8.1-1ubuntu5.20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:logsave",
+      "name": "logsave",
+      "versions": [
+        "pkg:deb/ubuntu/logsave@1.45.5-2ubuntu1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:lsb-base",
+      "name": "lsb-base",
+      "versions": [
+        "pkg:deb/ubuntu/lsb-base@11.1.0ubuntu2?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:make",
+      "name": "make",
+      "versions": [
+        "pkg:deb/ubuntu/make@4.2.1-1.2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:manpages",
+      "name": "manpages",
+      "versions": [
+        "pkg:deb/ubuntu/manpages@5.05-1?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "BSD-4-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:manpages-dev",
+      "name": "manpages-dev",
+      "versions": [
+        "pkg:deb/ubuntu/manpages-dev@5.05-1?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "BSD-4-Clause",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:mawk",
+      "name": "mawk",
+      "versions": [
+        "pkg:deb/ubuntu/mawk@1.3.4.20200120-2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:mime-support",
+      "name": "mime-support",
+      "versions": [
+        "pkg:deb/ubuntu/mime-support@3.64ubuntu1?arch=all"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:mount",
+      "name": "mount",
+      "versions": [
+        "pkg:deb/ubuntu/mount@2.34-0.1ubuntu9.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-2-Clause",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "MIT",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "BSD-4-Clause",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:ncurses-base",
+      "name": "ncurses-base",
+      "versions": [
+        "pkg:deb/ubuntu/ncurses-base@6.2-0ubuntu2?arch=all"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:ncurses-bin",
+      "name": "ncurses-bin",
+      "versions": [
+        "pkg:deb/ubuntu/ncurses-bin@6.2-0ubuntu2?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:netbase",
+      "name": "netbase",
+      "versions": [
+        "pkg:deb/ubuntu/netbase@6.1?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:openssl",
+      "name": "openssl",
+      "versions": [
+        "pkg:deb/ubuntu/openssl@1.1.1f-1ubuntu2.10?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:passwd",
+      "name": "passwd",
+      "versions": [
+        "pkg:deb/ubuntu/passwd@1:4.8.1-1ubuntu5.20.04?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:patch",
+      "name": "patch",
+      "versions": [
+        "pkg:deb/ubuntu/patch@2.7.6-6?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:perl",
+      "name": "perl",
+      "versions": [
+        "pkg:deb/ubuntu/perl@5.30.0-9ubuntu0.2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "Zlib",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "Artistic-2.0",
+          "url": ""
+        },
+        {
+          "name": "GPL-1.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-1.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:perl-base",
+      "name": "perl-base",
+      "versions": [
+        "pkg:deb/ubuntu/perl-base@5.30.0-9ubuntu0.2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "Zlib",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "Artistic-2.0",
+          "url": ""
+        },
+        {
+          "name": "GPL-1.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-1.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:perl-modules-5.30",
+      "name": "perl-modules-5.30",
+      "versions": [
+        "pkg:deb/ubuntu/perl-modules-5.30@5.30.0-9ubuntu0.2?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "Zlib",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "Artistic-2.0",
+          "url": ""
+        },
+        {
+          "name": "GPL-1.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-1.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:pinentry-curses",
+      "name": "pinentry-curses",
+      "versions": [
+        "pkg:deb/ubuntu/pinentry-curses@1.1.0-3build1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "X11",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "pypi:pip",
+      "name": "pip",
+      "versions": [
+        "pkg:pypi/pip@20.0.2"
+      ],
+      "licenses": [
+        {
+          "name": "MIT",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:procps",
+      "name": "procps",
+      "versions": [
+        "pkg:deb/ubuntu/procps@2:3.3.16-1ubuntu2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "pypi:pymongo",
+      "name": "pymongo",
+      "versions": [
+        "pkg:pypi/pymongo@4.0.1"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:python-pip-whl",
+      "name": "python-pip-whl",
+      "versions": [
+        "pkg:deb/ubuntu/python-pip-whl@20.0.2-5ubuntu1.6?arch=all"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:python3",
+      "name": "python3",
+      "versions": [
+        "pkg:deb/ubuntu/python3@3.8.2-0ubuntu2?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:python3-dev",
+      "name": "python3-dev",
+      "versions": [
+        "pkg:deb/ubuntu/python3-dev@3.8.2-0ubuntu2?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:python3-distutils",
+      "name": "python3-distutils",
+      "versions": [
+        "pkg:deb/ubuntu/python3-distutils@3.8.10-0ubuntu1~20.04?arch=all"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:python3-lib2to3",
+      "name": "python3-lib2to3",
+      "versions": [
+        "pkg:deb/ubuntu/python3-lib2to3@3.8.10-0ubuntu1~20.04?arch=all"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:python3-minimal",
+      "name": "python3-minimal",
+      "versions": [
+        "pkg:deb/ubuntu/python3-minimal@3.8.2-0ubuntu2?arch=amd64"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:python3-pip",
+      "name": "python3-pip",
+      "versions": [
+        "pkg:deb/ubuntu/python3-pip@20.0.2-5ubuntu1.6?arch=all"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:python3-pkg-resources",
+      "name": "python3-pkg-resources",
+      "versions": [
+        "pkg:deb/ubuntu/python3-pkg-resources@45.2.0-1?arch=all"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:python3-setuptools",
+      "name": "python3-setuptools",
+      "versions": [
+        "pkg:deb/ubuntu/python3-setuptools@45.2.0-1?arch=all"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:python3-wheel",
+      "name": "python3-wheel",
+      "versions": [
+        "pkg:deb/ubuntu/python3-wheel@0.34.2-1?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:python3.8",
+      "name": "python3.8",
+      "versions": [
+        "pkg:deb/ubuntu/python3.8@3.8.10-0ubuntu1~20.04.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:python3.8-dev",
+      "name": "python3.8-dev",
+      "versions": [
+        "pkg:deb/ubuntu/python3.8-dev@3.8.10-0ubuntu1~20.04.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:python3.8-minimal",
+      "name": "python3.8-minimal",
+      "versions": [
+        "pkg:deb/ubuntu/python3.8-minimal@3.8.10-0ubuntu1~20.04.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:readline-common",
+      "name": "readline-common",
+      "versions": [
+        "pkg:deb/ubuntu/readline-common@8.0-4?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "pypi:requests",
+      "name": "requests",
+      "versions": [
+        "pkg:pypi/requests@2.26.0"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:sed",
+      "name": "sed",
+      "versions": [
+        "pkg:deb/ubuntu/sed@4.7-1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "pypi:semver",
+      "name": "semver",
+      "versions": [
+        "pkg:pypi/semver@2.13.0"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:sensible-utils",
+      "name": "sensible-utils",
+      "versions": [
+        "pkg:deb/ubuntu/sensible-utils@0.0.12+nmu1?arch=all"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "pypi:setuptools",
+      "name": "setuptools",
+      "versions": [
+        "pkg:pypi/setuptools@45.2.0"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:sysvinit-utils",
+      "name": "sysvinit-utils",
+      "versions": [
+        "pkg:deb/ubuntu/sysvinit-utils@2.96-2.1ubuntu1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:tar",
+      "name": "tar",
+      "versions": [
+        "pkg:deb/ubuntu/tar@1.30+dfsg-7?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "pypi:ts-vulndb",
+      "name": "ts-vulndb",
+      "versions": [
+        "pkg:pypi/ts-vulndb@0.6.2"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "pypi:typesense",
+      "name": "typesense",
+      "versions": [
+        "pkg:pypi/typesense@0.13.1"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:ubuntu-keyring",
+      "name": "ubuntu-keyring",
+      "versions": [
+        "pkg:deb/ubuntu/ubuntu-keyring@2020.02.11.2?arch=all"
+      ],
+      "licenses": [],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "pypi:urllib3",
+      "name": "urllib3",
+      "versions": [
+        "pkg:pypi/urllib3@1.26.7"
+      ],
+      "licenses": [
+        {
+          "name": "MIT",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:util-linux",
+      "name": "util-linux",
+      "versions": [
+        "pkg:deb/ubuntu/util-linux@2.34-0.1ubuntu9.1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "BSD-2-Clause",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "BSD-3-Clause",
+          "url": ""
+        },
+        {
+          "name": "MIT",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "BSD-4-Clause",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-3.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "pypi:wheel",
+      "name": "wheel",
+      "versions": [
+        "pkg:pypi/wheel@0.34.2"
+      ],
+      "licenses": [
+        {
+          "name": "MIT",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:xz-utils",
+      "name": "xz-utils",
+      "versions": [
+        "pkg:deb/ubuntu/xz-utils@5.2.4-1ubuntu1?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "LGPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-or-later",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-2.0-only",
+          "url": ""
+        },
+        {
+          "name": "GPL-3.0-only",
+          "url": ""
+        },
+        {
+          "name": "LGPL-2.1-or-later",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:zlib1g",
+      "name": "zlib1g",
+      "versions": [
+        "pkg:deb/ubuntu/zlib1g@1:1.2.11.dfsg-2ubuntu1.2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "Zlib",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    },
+    {
+      "key": "deb:ubuntu:zlib1g-dev",
+      "name": "zlib1g-dev",
+      "versions": [
+        "pkg:deb/ubuntu/zlib1g-dev@1:1.2.11.dfsg-2ubuntu1.2?arch=amd64"
+      ],
+      "licenses": [
+        {
+          "name": "Zlib",
+          "url": ""
+        }
+      ],
+      "dependencies": [],
+      "repoUrl": "",
+      "homepageUrl": "",
+      "description": "",
+      "private": false,
+      "checksum": ""
+    }
+  ]
+}

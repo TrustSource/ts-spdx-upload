@@ -1,0 +1,2468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://spdx.org/rdf/terms#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <ns1:SpdxDocument rdf:about="http://www.spdx.org/tools#SPDXRef-DOCUMENT">
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nd59f8755bc4f4c26a7865b3de45ca841">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N8c1551e366b34985aa2a7ec28e64f3ea">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nac03c21bf47e49269990d7478746d83a">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N4d924b0949c542209501cbea979502fb">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N165e7622316f440aad2a9a28d7aac0f3">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N6affbe31c72343d1bcf1443734289fdd">
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N213cbf1774274bb88aa468561ca97c78">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Na1b570fbd01141bdbb91cc28a1ced1b5">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/scancode-acknowledgment.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/scancode-acknowledgment.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-scancode-acknowledgment</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N14ff2e0fce414324b056dcf9b9c301c5">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N8b0616be94ca4c0b811ac7240f479f57">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nf38b283542a94401b093df589bcdaf62">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N4932a4e5efc647f89b539bc73e683274">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Ne5bd47edc3214c9bbce188fc2685cd77">
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N0b7fb0dc94e744b78a99e3aac53c7147">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N3feca8ff79c7483f995f8d4f42cd7df5">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N5a3fa9138682447ba1d1c96b76e96faa">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N0e4bccdff2ce42b6afec59e2f6e16880">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N8a34b1dc428249fdb65e4a943c55ca4d">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Ncf3c73734930487681c087fa1a407811">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N426888a53e40494bb13d6ba3ced86812">
+        <ns1:licenseId>LicenseRef-scancode-proprietary-license</ns1:licenseId>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.yml
+</rdfs:comment>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N1fd8b85a0ac745a38264d58db3446fb8">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N437e26c61d324464b0426c2bdf423554">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Ne190e7a1f57449abaff459ecd46bbaae">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N47ebb9bef883454dbf564e1c03525d45">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N46c9eb002b9f47988e556ce5ac01d190">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N983bffb980ca49ac8622dd2ab0d96c28">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Na70055a68d48493dbbbd2ad701a8b9a7">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nb66474f8038f4314a69ffeda07899514">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N155baa3498864b87a43485f7585bcb17">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N0140a3e239c043f786d4feee80e64c0b">
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N6f1d317177f048f7b963a4334e04917d">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Na6b701bfe685465c86a2ae0f692337ef">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nfedd924abffc4de3a74945c9cad6fa56">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N12cdef94e93140f6af14d5dbe07ef400">
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:describesPackage>
+      <ns1:Package rdf:about="http://www.spdx.org/tools#SPDXRef-Package">
+        <ns1:hasFile rdf:resource="http://www.spdx.org/files#None"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+        <ns1:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+        <ns1:copyrightText><![CDATA[(c) 1991-1992, Thomas G. Lane, Part of the Independent JPEG Group's
+(c) 1998 NAME-COPY
+(c) 2001-2009, Takuo KITAME, Bart Martens, and Canonical, LTD
+(c) 2004 - 2007 Nigel McNie, MyCo Inc.
+(c) 2017 The Chromium Authors
+(c) COPYRIGHT 2004 UNIVERSITY OF CHICAGO
+(c) Copyright 1985-1999 SOME TECHNOLOGY SYSTEMS COPYRIGHT2
+(c) Unpublished Work of Sample Group, Inc.
+2004+ Copyright (c) Evgeniy Polyakov <zbr@ioremap.net>
+COPYRIGHT (c) 2006 - 2009 DIONYSOS
+COPYRIGHT + 2001
+COPYRIGHT 2000
+COPYRIGHT 2002
+COPYRIGHT 2004
+COPYRIGHT 2005
+COPYRIGHT 2009
+COPYRIGHT Written by John Cunningham Bowler, 2015
+CompuServe Incorporated. COPYRIGHT 2003
+Copr corp
+Copr. 2006 INRIA - CIRAD - INRA
+Copr. CNRS NAME-CAPS
+Copr. Mines Paristech, France - Mark NOBLE, Alexandrine GESRET
+Copyright (c) & 36 today.year Google Inc.
+Copyright (c) , 2001-2011, Omega Tech. Co., Ltd. Or
+Copyright (c) 1988, 1993 The Regents of the University ofCalifornia
+Copyright (c) 1992 David Giller, rafetmad@oxy.edu 1994, 1995 Eberhard Moenkeberg, emoenke@gwdg.de 1996 David van Leeuwen, david@tm.tno.nl
+Copyright (c) 1992, 1993, 1994, 1995 Remy Card (card@masi.ibp.fr) Laboratoire MASI - Institut Blaise Pascal
+Copyright (c) 1992-2002 by P.J. Plauger. COPYRIGHT2
+Copyright (c) 1993-2008, COMPANY
+Copyright (c) 1995, 1996 - Blue Sky Software Corp.
+Copyright (c) 1995, 1996 The President and Fellows of Harvard University
+Copyright (c) 1995-2008 Software in the Public Interest
+Copyright (c) 1995-2018 The PNG Reference
+Copyright (c) 1995-2018 The PNG Reference Library Authors
+Copyright (c) 1996 Adrian Rodriguez (adrian@franklins-tower.rutgers.edu) Laboratory for Computer Science Research Computing Facility
+Copyright (c) 1998, 2018 Oracle and/or its affiliates
+Copyright (c) 1998-2000
+Copyright (c) 1999 Computer Systems and Communication Lab, Institute of Information Science, Academia Sinica. COPYRIGHT2
+Copyright (c) 1999, 2000 - D.T.Shield. COPYRIGHT2
+Copyright (c) 2000 See Beyond Communications Corporation
+Copyright (c) 2000 United States Government as represented by the Secretary of the Navy
+Copyright (c) 2002 World Wide Web Consortium, (Massachusetts Institute of Technology, Institut National de Recherche en Informatique et en Automatique, Keio University). COMPANY
+Copyright (c) 2003+ Evgeniy Polyakov <johnpol@2ka.mxt.ru>
+Copyright (c) 2004
+Copyright (c) 2005 DMTF.
+Copyright (c) 2005 SUSE
+Copyright (c) 2005-2006 dann frazier <dannf@dannf.org>
+Copyright (c) 2007 Hiran Venugopalan, Hussain K H, Suresh P, Swathanthra Malayalam Computing
+Copyright (c) 2007, Eclipse Foundation, Inc.
+Copyright (c) 2007-2008, Y Giridhar Appaji Nag <giridhar@appaji.net>
+Copyright (c) 2007-2010 the original author or authors
+Copyright (c) 2007-2014 IOLA and Ole Laursen
+Copyright (c) 2008 by Amalasoft Corporation
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008-1010 Intel Corporation
+Copyright (c) 2011 The WebRTC project
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2012 John Li and others
+Copyright (c) 2012-2016, Project contributors
+Copyright (c) 2013, 2019 Oracle and/or its affiliates
+Copyright (c) 2013-2015 Streams Standard Reference Implementation Authors
+Copyright (c) 2014-2019 New Avenue Foundation
+Copyright (c) 2016 Project
+Copyright (c) 2016-2018 nexB Inc. and others
+Copyright (c) 2017 Contributors et.al
+Copyright (c) 2017 Marc Stevens Cryptology Group
+Copyright (c) 2017, 2019 Oracle and/or its affiliates
+Copyright (c) 2018 nexB Inc. and others
+Copyright (c) <2013> , GENIVI Alliance, Inc.
+Copyright (c) Ian Darwin 1995. Software NAME-YEAR
+Copyright (c) Ian F. Darwin 1986, 1987, 1989, 1990, 1991, 1992, 1994, 1995
+Copyright (c) OSGi Alliance (2009)
+Copyright (c) Research In Motion Limited 2010
+Copyright (c) Sebastian Classen
+Copyright (c) Suresh P <suresh@ippimail.com>
+Copyright (c) World Wide Web Consortium, Massachusetts Institute of Technology , Institut National de Recherche en Informatique et en Automatique, Keio University
+Copyright (c) YEAR This_file_is_part_of_KDE
+Copyright (c) by Chinese Service Center for Scholarly Exchange
+Copyright (c) by IBM Corp.
+Copyright (c) by Minds, Japan Council for Quality Health Care
+Copyright (c) by the District Export Council of Georgia
+Copyright (c), ALL Consulting, 2008
+Copyright . 2008 Mycom Pany, inc.
+Copyright . 2008 company name, inc.
+Copyright 1994-2007 (c) RealNetworks, Inc.
+Copyright 1996-2004, John LoVerso
+Copyright 1999, 2000 - D.T.Shield
+Copyright 2002, 2003 University of Southern California, Information Sciences Institute
+Copyright 2005-2007 Christopher Montgomery, Jean-Marc Valin, Timothy Terriberry, CSIRO, and other contributors
+Copyright 2007-2010 the original author or authors
+Copyright 2008 TJ <linux@tjworld.net>
+Copyright 2008 TJ <linux@tjworld.net> COPYRIGHT2
+Copyright Holders Kevin Vandersloot <kfv101@psu.edu> Erik Johnsson <zaphod@linux.nu>
+Copyright or Copr. CNRS
+Created by Samvel Khalatyan, May 28, 2013 Copyright 2013
+Crown Copyright (c)
+Crown Copyright C
+Foobar Company, (c) 2005
+Products GmbH. COPYRIGHT 2008
+Russ Dill <Russ.Dill@asu.edu> 2001-2003
+SSC. Ltd. Copyright (c)
+Scilab (c) INRIA-ENPC.
+South Baylo University Copyright (c) 2018
+Vladimir Oleynik <dzo@simtreas.ru> (c) 2002
+copyright (c) 1999
+copyright 2000-2003 Ximian, Inc., 2003 Gergo Erdi
+copyright 2001
+copyright 2003
+copyright 2005
+copyright C 1988
+copyright C 1988 by the Institute of Electrical and Electronics Engineers, Inc.
+copyright CERN.
+copyright _copyright
+copyright by M.I.T.
+copyright notice (3dfx Interactive, Inc. 1999)
+copyright of CERN.
+copyrighted by Douglas C. Schmidt and his research group at Washington University, University of California, Irvine, and Vanderbilt University
+copyrighted by MIT
+copyrighted by Object Computing, Inc., St. Louis Missouri, Copyright (c) 2002
+copyrighted by the Free Software Foundation
+the Institute of Electrical and Electronics Engineers, Inc COPYRIGHT 2007
+]]></ns1:copyrightText>
+        <ns1:licenseInfoFromFiles>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N0f199e7674534a24a6310761d3eb6d62">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-proprietary-license</ns1:licenseId>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoFromFiles>
+        <ns1:licenseInfoFromFiles>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N315b1efb1e684d7da7070f97fd3907c2">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoFromFiles>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/BSD-3-Clause"/>
+        <ns1:downloadLocation rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+        <ns1:licenseDeclared rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+        <ns1:name>ts-deepscan</ns1:name>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/ISC"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/GPL-2.0-or-later"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/GPL-1.0-or-later"/>
+        <ns1:packageVerificationCode>
+          <ns1:PackageVerificationCode rdf:nodeID="Nbb2d965c8eda4b01b24089376daf5135">
+            <ns1:packageVerificationCodeValue>c5255c8f3b7a9843e56d60ccc9df0068022eb42b</ns1:packageVerificationCodeValue>
+          </ns1:PackageVerificationCode>
+        </ns1:packageVerificationCode>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/EPL-2.0"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/BSD-4-Clause"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/LGPL-2.0-or-later"/>
+        <ns1:licenseInfoFromFiles>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nd4fb2d2cca664483bc8eb5032c918239">
+            <ns1:licenseId>LicenseRef-scancode-scancode-acknowledgment</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/scancode-acknowledgment.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/scancode-acknowledgment.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoFromFiles>
+      </ns1:Package>
+    </ns1:describesPackage>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N89e8e318e0d847369eecd457745b3aa8">
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nfe5e9a1bf7674ae6bdef2e42f4870aa3">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nc3c154798da04c2ea08a46f3a6304e29">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N0d87e0fcc0914a699a3d0dafd2c7d6f6">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N8fbf0953d1e44c6ea273c7ca6fd19885">
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N38fa4d936706416f9f524529d03e09f9">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N8fdd585848f34083bb7dbafd3491b271">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Naf0a52ec82dd407ca85c491a9cbeda9d">
+        <ns1:licenseId>LicenseRef-scancode-scancode-acknowledgment</ns1:licenseId>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/scancode-acknowledgment.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/scancode-acknowledgment.yml
+</rdfs:comment>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nedaaaebe7ba6476dbdfa34cf238a508a">
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:specVersion>SPDX-2.1</ns1:specVersion>
+    <ns1:creationInfo>
+      <ns1:CreationInfo rdf:nodeID="Neb55bf6b92834a0eb11356c7016f91e4">
+        <ns1:creator>Tool: scancode-toolkit 3.1.1</ns1:creator>
+        <ns1:created>2020-02-25T18:12:17Z</ns1:created>
+      </ns1:CreationInfo>
+    </ns1:creationInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N36ff18be4e79449c94bed17d1cdad5dc">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N3af4fe241ca24f2e885fc6ebc3f8a230">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N7992db455b964127b46a71fad9c15bb9">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N61a9898b003f41859b904612ec329d6a">
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N5c9e83773dee4f0389387f641855aaf4">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N66be9f4d87e4431b95b623b6e8b2ef98">
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N3cdca3ad15954d69943030b7f1cbc0ec">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N494f8dde38594cf5b3034b6c62de7a6d">
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N07b66e700efb4057b503c3f39bd20ba7">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Na990e3e1018449ac8bd4b456ab632d95">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nb3885e7dfc7842b8adbe6b6e813e0b01">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N0ddd46857ae84df18d267bcd2c2f17a9">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N94dacd7bc3624cc2b019f7b638e72dd5">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nca6cbc6bd4314b1fbd3a5fbf65eb8617">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N82bb698bbd804f65b275e90078cb54af">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N38fa1d56e7f04cd28d937f7ce8807984">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N6730ff93ff124c868b0ba39fc444ca8e">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:dataLicense rdf:resource="http://spdx.org/licenses/CC0-1.0"/>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N4c701008f21746cea181b90c3922e614">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N334a547e9fa3440ba3b8cd1db7786150">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N9408670a820343d6a4dcaa568c7fd898">
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N25d4424f41a94cb382b2ddb672a6e581">
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:referencesFile>
+      <ns1:File rdf:about="http://www.spdx.org/files#None">
+        <ns1:fileName>./ts-deepscan/scripts/scan-file-job</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N62d3a95e71244396a921a47b82e15d23">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N9b665bd2b87f47d89e13e591a91dee8d">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nb3dfbdac51aa49c0a3bfd468a1c77fc1">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Neba1b96e3e084aa59113b801c1440b7f">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>80026eb1e948543c5f00506533bd5a298bd7eeb3</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N3bf93c72d9214ad3af0db1114246777a">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N0f8005af95434b50b7c2ca235981fdba">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf063f09c2f6643fdb1d75b0cbcb5d8c5">
+            <ns1:checksumValue>ef1bf81ada95928a08d5a70fd37f318d9a64d454</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Ne15a0dd7029c482da69ae1b39197d422">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nb27eb544fc014cfb9f0a4059b9c7af7d">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>279bfc30185aced999fd255ba174146117739cb6</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-deepscan/scanner/Repository.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Na4896e5f415b4babbfc522eddce10f9e">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>34072783b017e7e06c74ea0856f654410b9f6f6d</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/EPL-2.0"/>
+        <ns1:fileName>./ts-deepscan/service/DeepscanService.py</ns1:fileName>
+        <ns1:fileName>./ts-deepscan/README.md</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ncd52eace989e4007afd70ea4fa903a19">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>b0f568984c618bf8133a455ee715f922783e6228</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N8b8efb7a1a1b447ab324e84f8cb5c1da">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:copyrightText>Copyright (c) OSGi Alliance (2009)
+Copyright (c) OSGi Alliance (2009)
+Copyright (c) 1998, 2018 Oracle and/or its affiliates
+Copyright (c) 1998, 2018 Oracle and/or its affiliates
+Copyright (c) 1998, 2018 Oracle and/or its affiliates
+Copyright (c) 1998, 2018 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2017, 2019 Oracle and/or its affiliates
+Copyright (c) 2017, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2013, 2019 Oracle and/or its affiliates
+Copyright (c) 2013, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2017, 2019 Oracle and/or its affiliates
+Copyright (c) 2017, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2011, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2008, 2019 Oracle and/or its affiliates
+Copyright (c) 2007, Eclipse Foundation, Inc.
+</ns1:copyrightText>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf1fb2b30808a44e28e16cb19c89ebafd">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>dbbd15492f197ede24d2153588171e0dc7fd08c1</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N42f678492e374aa2a570d477c39b1d77">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/GPL-1.0-or-later"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N3d82c7523e1740a1b01eb00246b90346">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>396c112e91c1490a7a0882a1410921ce2f988437</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/BSD-3-Clause"/>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N738023ab8cd74e06820967468c80e5ad">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nb5be5c38df974f1992601944d402a5dc">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/BSD-4-Clause"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N44f9093feafd4f91b87bf7e959e46104">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>385dd415ab9062c24863e9d8422ca29986e15037</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nd2d21f4d49e04ed9be88353ed29c78c4">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N5917d7fa111d42c4aa09e003e6b31660">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Ndf701e79e2044ca0b10fe83b63138716">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Ne274cc649b5d424eb6a01fc52ea2133f">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf74ad3ccd65640d3ac1d9e41f4633ba7">
+            <ns1:checksumValue>f84e4584bcc435d1b3b374501f61b33f94679ee8</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-deepscan/ts-scan-service</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nc4f2d277afc9496599f11479ad44ae44">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N229b3d20ed514176a22a231675c758a8">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>143ddb2922d90da10734606229a19dc4c84d2f44</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N2789ef1c74b247c0bb251b2b6432ad6f">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N830f5204f5044f72ac019a87377afe5d">
+            <ns1:checksumValue>a33801510f5a411b435b50649adb3374d3077786</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:copyrightText>Copyright (c) 2018 nexB Inc. and others
+Copr corp
+</ns1:copyrightText>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Na5986c78669948d5b50af298f9110726">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Ndc2e1c02636045d79b344b33946a34e3">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/analyser/LicenseAnalyser.py</ns1:fileName>
+        <ns1:fileName>./ts-deepscan/commentparser/language.py</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N7890ec06cf684c7ea2f917684e8cba31">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/scancode/cluecode/copyrights_hint.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N303159af6fbf494cb8f787f5d5239d4a">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>fc2aca21f2af18e00588b7d36233c15303fe139f</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Necfd2f29440b4b8bafc1cced4507cd79">
+            <ns1:checksumValue>248b3e12fd6769b06dddcb92ad8c7d8cd17681b4</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N9a671f7005be43da8642ec84cfabc349">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-proprietary-license</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.yml
+</ns1:extractedText>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N23b876a5fd3a462dbf1b8921975104a9">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Ne45d15ec1d914bca90bf42391e9a967f">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nfba3a8cd1e524083aa9b27fa3ffa4b30">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Ndd89c51f63d74e18887c20c9fb906028">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N04b306148ea442a9a2ea955022059d25">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N51c1f5b4a0a147ba8324daae0fd10cb3">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/config.py</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N4fefeb04152c4e9f8697d1c1a12f4ac6">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>184e8adee4961041258d32200e7bab38acdaec78</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nfea71644e9b44fbb82eff4a3cbdbc536">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/scancode/cluecode/copyrights.py</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N0dcbf85238d14c9784d09cd2a8a5ee0c">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N42923c495699453188f01e2e402b60c5">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>ea4769df280e4b556c9a47c5db4c74434d88cc99</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N9d09cadeea59414a9238822ff5f78932">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N4cabfbe3d1854b7e8936d3e52e8b1671">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nbafcfdb0d9c348db804ee80aa76a21ba">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N062fcc6c8f9e46f0902fc36e36e964a1">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne426d52a9e68420bb3b2d405c962d46c">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>462c6e45aa62aeeacc992058dec0fc71f0d0b4e6</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N43f971e51a9d478aafcbc239d2a02c8f">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Na47621fd0a2f4027adee2e7d2ed8a5f9">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/utils.py</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/GPL-2.0-or-later"/>
+        <ns1:fileName>./ts-deepscan/docker-entrypoint.sh</ns1:fileName>
+        <ns1:copyrightText>Copyright (c) 2017 Marc Stevens Cryptology Group
+</ns1:copyrightText>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N13c11fefa20149c984fad9116223240c">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N39a7464ade0d4d31b78c4b0b998a354b">
+            <ns1:checksumValue>d28e53c6bab909e148d947ad6456576944f8e7b3</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-deepscan/scripts/scan-status</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N4c4e786e5b7d44cc94ff50146b70efee">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N745796f8aebe4f4d84d64a9b443c0abf">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N58c466ef3595457c850d07cb43b03fea">
+            <ns1:checksumValue>9d98d17a61bcc5e4adbe0671a0ccf4b93f2ec932</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-deepscan/requirements-docker.txt</ns1:fileName>
+        <ns1:copyrightText rdf:resource="http://spdx.org/rdf/terms#none"/>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Na33dcd84e8ca42e8b26849ca1ceffdbd">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/scancode-acknowledgment.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/scancode-acknowledgment.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-scancode-acknowledgment</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N6771e53917b64d2d8f6a0c99d14eb114">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>6838f28cf292d3320c0913e6c73eb4d50fab1015</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Na0518ace52674b70b664a236ede813bd">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>b05b5d5bc74c63e4072f551cae8a2c90de136828</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nb0324ea7fc7849329db1fc768e08c7cc">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/docker-compose.yml</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N0eaf18e46d5c4555819b433711b2bf9e">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:copyrightText>copyright _copyright
+</ns1:copyrightText>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N90e654e531454a9da2ce2e1c2206eb7b">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne5288228a92b43dd9087a192c9aadc48">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>363b0c1aacc6a429ed8fe101bb6ca3c67014fca8</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-deepscan/commentparser/__init__.py</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Ndec52ea7b05943a587121fe1084a0e15">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Ne6db921fb4c24c929009b7bfc9219a86">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/examples/copyrights.txt</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N820a55b1f2814c37bb09395be37e2097">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/Dockerfile</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N435af63d122946198467361dd672c139">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nd4501454581e4e339d23a8868a780a0f">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N64433229d48a4f80be684e6081b34656">
+            <ns1:checksumValue>353a2aa4481d3150eb48752fdca0272ec3ea614b</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Ncd657a73de0041d89b3c024bcbac5e62">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N7d94366ae24149aeaf64e4d22bcaad2e">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/LGPL-2.0-or-later"/>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N892527b3ab53433ab40849849c2a55fa">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N3b952bcc32fd422989e6af5a303fe5b7">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/ISC"/>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nb28ee543c7894d599ac759b4248c3e2e">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+        <ns1:copyrightText><![CDATA[Copyright (c) 2018 nexB Inc. and others
+Copyright (c) 2012 John Li and others
+Copyright (c) Ian Darwin 1995. Software NAME-YEAR
+(c) 1991-1992, Thomas G. Lane, Part of the Independent JPEG Group's
+Copyright 2005-2007 Christopher Montgomery, Jean-Marc Valin, Timothy Terriberry, CSIRO, and other contributors
+Copyright (c) 1998-2000
+Copyright (c) 2002 World Wide Web Consortium, (Massachusetts Institute of Technology, Institut National de Recherche en Informatique et en Automatique, Keio University). COMPANY
+copyrighted by Douglas C. Schmidt and his research group at Washington University, University of California, Irvine, and Vanderbilt University
+Copyright (c) 1993-2008, COMPANY
+Copyright 2007-2010 the original author or authors
+Copyright (c) 2007-2010 the original author or authors
+Copyright (c) Suresh P <suresh@ippimail.com>
+Copr. Mines Paristech, France - Mark NOBLE, Alexandrine GESRET
+Copyright . 2008 Mycom Pany, inc.
+Copyright (c) 1995-2008 Software in the Public Interest
+(c) 2004 - 2007 Nigel McNie, MyCo Inc.
+Copyright (c) 2013-2015 Streams Standard Reference Implementation Authors
+Copyright (c) Ian F. Darwin 1986, 1987, 1989, 1990, 1991, 1992, 1994, 1995
+Copyright (c) 2003+ Evgeniy Polyakov <johnpol@2ka.mxt.ru>
+Copyright (c) 2016 Project
+Copyright (c) 1995, 1996 The President and Fellows of Harvard University
+Copyright 1999, 2000 - D.T.Shield
+Copyright (c) 1999, 2000 - D.T.Shield. COPYRIGHT2
+(c) 2017 The Chromium Authors
+Copyright (c) Research In Motion Limited 2010
+Copyright (c) 1999 Computer Systems and Communication Lab, Institute of Information Science, Academia Sinica. COPYRIGHT2
+Copyright (c) 1992-2002 by P.J. Plauger. COPYRIGHT2
+Copyright (c) 2012-2016, Project contributors
+Copyright 2008 TJ <linux@tjworld.net> COPYRIGHT2
+(c) Copyright 1985-1999 SOME TECHNOLOGY SYSTEMS COPYRIGHT2
+(c) 1998 NAME-COPY
+Scilab (c) INRIA-ENPC.
+Copyright 1994-2007 (c) RealNetworks, Inc.
+Copyright (c) 2017 Contributors et.al
+copyrighted by Object Computing, Inc., St. Louis Missouri, Copyright (c) 2002
+Copyright (c) 2008 by Amalasoft Corporation
+Copyright (c) 1996 Adrian Rodriguez (adrian@franklins-tower.rutgers.edu) Laboratory for Computer Science Research Computing Facility
+Copr. 2006 INRIA - CIRAD - INRA
+copyright (c) 1999
+copyright notice (3dfx Interactive, Inc. 1999)
+Copyright (c) <2013> , GENIVI Alliance, Inc.
+copyright C 1988 by the Institute of Electrical and Electronics Engineers, Inc.
+Copyright 1996-2004, John LoVerso
+Copyright (c) 1992, 1993, 1994, 1995 Remy Card (card@masi.ibp.fr) Laboratoire MASI - Institut Blaise Pascal
+Copyright 2002, 2003 University of Southern California, Information Sciences Institute
+Copyright 2008 TJ <linux@tjworld.net>
+Russ Dill <Russ.Dill@asu.edu> 2001-2003
+(c) 2001-2009, Takuo KITAME, Bart Martens, and Canonical, LTD
+Copyright Holders Kevin Vandersloot <kfv101@psu.edu> Erik Johnsson <zaphod@linux.nu>
+Copyright (c) 1995, 1996 - Blue Sky Software Corp.
+copyright 2000-2003 Ximian, Inc., 2003 Gergo Erdi
+2004+ Copyright (c) Evgeniy Polyakov <zbr@ioremap.net>
+Copyright (c) 1992 David Giller, rafetmad@oxy.edu 1994, 1995 Eberhard Moenkeberg, emoenke@gwdg.de 1996 David van Leeuwen, david@tm.tno.nl
+COPYRIGHT 2000
+COPYRIGHT + 2001
+copyright by M.I.T.
+COPYRIGHT 2002
+CompuServe Incorporated. COPYRIGHT 2003
+Copyright (c) 2005 DMTF.
+COPYRIGHT 2004
+Copyright (c) YEAR This_file_is_part_of_KDE
+COPYRIGHT 2005
+copyrighted by the Free Software Foundation
+copyright C 1988
+the Institute of Electrical and Electronics Engineers, Inc COPYRIGHT 2007
+Copyright (c) 2005 SUSE
+Products GmbH. COPYRIGHT 2008
+COPYRIGHT (c) 2006 - 2009 DIONYSOS
+COPYRIGHT 2009
+Copyright (c) 2000 See Beyond Communications Corporation
+copyright C 1988 by the Institute of Electrical and Electronics Engineers, Inc.
+(c) COPYRIGHT 2004 UNIVERSITY OF CHICAGO
+Copr. CNRS NAME-CAPS
+Copyright or Copr. CNRS
+Copyright (c) 2004
+Copyright (c) 2007-2014 IOLA and Ole Laursen
+Vladimir Oleynik <dzo@simtreas.ru> (c) 2002
+copyright of CERN.
+copyright CERN.
+Copyright (c) World Wide Web Consortium, Massachusetts Institute of Technology , Institut National de Recherche en Informatique et en Automatique, Keio University
+Copyright (c) 1988, 1993 The Regents of the University ofCalifornia
+(c) Unpublished Work of Sample Group, Inc.
+Foobar Company, (c) 2005
+Copyright (c) 2000 United States Government as represented by the Secretary of the Navy
+Copyright (c) 2007-2008, Y Giridhar Appaji Nag <giridhar@appaji.net>
+copyright C 1988 by the Institute of Electrical and Electronics Engineers, Inc.
+Copyright (c) 2007 Hiran Venugopalan, Hussain K H, Suresh P, Swathanthra Malayalam Computing
+Copyright (c) 1995-2018 The PNG Reference
+Copyright (c) 2011 The WebRTC project
+Copyright (c), ALL Consulting, 2008
+Copyright (c) Sebastian Classen
+Copyright (c) , 2001-2011, Omega Tech. Co., Ltd. Or
+Copyright (c) & 36 today.year Google Inc.
+Copyright (c) 1995-2018 The PNG Reference Library Authors
+South Baylo University Copyright (c) 2018
+Crown Copyright C
+Crown Copyright (c)
+Copyright (c) by the District Export Council of Georgia
+SSC. Ltd. Copyright (c)
+Copyright (c) 2014-2019 New Avenue Foundation
+Copyright (c) by Minds, Japan Council for Quality Health Care
+Copyright (c) by Chinese Service Center for Scholarly Exchange
+Copyright (c) by IBM Corp.
+Copyright . 2008 Mycom Pany, inc.
+Copyright . 2008 company name, inc.
+Copyright (c) 2008-1010 Intel Corporation
+Copyright (c) 2005-2006 dann frazier <dannf@dannf.org>
+copyrighted by MIT
+Copyright (c) 1995-2018 The PNG Reference
+COPYRIGHT Written by John Cunningham Bowler, 2015
+Created by Samvel Khalatyan, May 28, 2013 Copyright 2013
+copyright 2005
+copyright 2003
+copyright 2001
+]]></ns1:copyrightText>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N6390cec854f746d49b05c86e8655b6ab">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nb6c71116b82f41bb861bd44f554f00a2">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N75f7f781d4fa40d5bce2e3f09608aee7">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>cdf1519141619298a95c7273e925b6992598b231</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N733bfb07f8944e4c92911544054643ea">
+            <ns1:checksumValue>17ec74dde30f023998a1a750c99a6a76d5d8e643</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nce6178f3cffc47279f9094cfa93180f2">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nd36fc3357c734d3ca607fee4a0d01450">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>b92e44828120f9464565523afbc9bbc7583ce3b1</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-deepscan/requirements.txt</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N97bb5d307bb74f1ea081c156789c935f">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/scancode/cluecode/utils.py</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nf8289145b4884d5da28f6fa9b198a671">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nde1119b557304d6dad3b43dfb35b6265">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>6eb6c948fadb2198b371161c1279bbba33a9b273</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-deepscan/cli.py</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nbfd2f6b607584d0fb6c90227f9553792">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/scancode/__init__.py</ns1:fileName>
+        <ns1:fileName>./ts-deepscan/scanner/ScanException.py</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N7c3b9ea782d64641a5f4cefd16e0e626">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N2518011cd76043d1a596731b30523d7c">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/awstools/setcreds.sh</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N9da2f038a13b4aeb8cb56d0baba0aec7">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>a1c6a9f85520b7ca2067de7f08f101f6bd44d7ac</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N05fdc10fb38746f2820bd77529d7ffc6">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/commentparser/test.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nba0f403b884a4e3eaef99e9565995f05">
+            <ns1:checksumValue>65f62b897c59cbb43b748f78f7896a92c2aee155</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N77882f9032ce4e25bf8b60035b2181ec">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N12176f3e81574d50939307b5ebba9654">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N000b96b95c0d45c491cfae603833b230">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N66eaa562480d454593f4f75f3a9dd9c0">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/ts-scan</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N7a6efa584e8b46bb9310726ad7032e1c">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/analyser/textutils.py</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N0197bfa819e8405599e32afb8fa11c79">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nddcfd723843a472f8b024291b5e8c08d">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nde9bf32dbfc548b4a7ce66f57184b624">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/analyser/Dataset.py</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N5ae0f424d5194bba8739005b0977cc92">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N83aff8440977478ca419cdee1edf4e9a">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N0f6d5ace409c40db9b616aea2b7be07a">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>a219d0b74f2f44f3301d53d37b33698bc707c144</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-deepscan/scripts/scan-git</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N81220fb91df74e03aa952f9e99091dcc">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/analyser/SourcesAnalyser.py</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N56713f7518394bea8cc55c500cbead43">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf829b4286f80417f9bc6427856456a6b">
+            <ns1:checksumValue>22b5092050706a309895de7d038ef20bb7723e18</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nc6bc7d71dde943f397df36a1c500596d">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc063208cc4084382aabf7bfc733b00fc">
+            <ns1:checksumValue>60f9c334a1b43b28dc1012ae6988643ed269d067</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nc2e531cff5f346c88f7320875bed4b1d">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/scancode-acknowledgment.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/scancode-acknowledgment.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-scancode-acknowledgment</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/.ebextensions/setup.config</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N544e2f66b5eb4b708754dc6f53b9d09b">
+            <ns1:checksumValue>d8eb685e1861e2691ce72b2105e02cafd03466d9</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-deepscan/.DS_Store</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ncd190736867649fabd9a665a74083785">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>e9fad0d7420397e0fcda4fea73203188d511e240</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Na8d251c800294e8f88d33f6cd0a85120">
+            <ns1:licenseId>LicenseRef-scancode-scancode-acknowledgment</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/scancode-acknowledgment.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/scancode-acknowledgment.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/DeepScan_testInfo</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nb2a127766cb74e44b1105dc2cf40071c">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N7725caa1c411432a970ffef37f78c0ea">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nc025205de1fa4f6da9f6218d9b607301">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N1290a0fea469468eab4ccd4943906db4">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nf104db88c30b4d0e84fe7dbd8a928273">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N493167ac27534f9ba1863635b138b8a1">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>a4df60a7204da815f5574785fc0306665c62ed97</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N0689ee7510b54918b2804719e7574e0c">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>84c5fe9ecf46faaa09ae6922885f1a2462121ad3</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:copyrightText>Copyright (c) 2016-2018 nexB Inc. and others
+</ns1:copyrightText>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N0e0753b375614bfba4bf26269307862f">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-deepscan/awstools/secrets.json</ns1:fileName>
+        <ns1:fileName>./ts-deepscan/analyser/FileAnalyser.py</ns1:fileName>
+        <ns1:fileName>./ts-deepscan/scanner/Scanner.py</ns1:fileName>
+        <ns1:fileName>./ts-deepscan/service/__init__.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne9b26ff53a9840a080a9c22bb246bd31">
+            <ns1:checksumValue>8ca7db3d3171209bfe34011a4690d71570fadef6</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N63037570239d4ed4892e2beb4aea00ce">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>fcdd567b2a66b8d5c9d1084f9c2983e969718eed</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nd3dbc63be871411ea969cf06ffa1db06">
+            <ns1:checksumValue>b052e6711134518831f145e7b7b6a9ab641f7300</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-deepscan/analyser/spdx.py</ns1:fileName>
+        <ns1:fileName>./ts-deepscan/scripts/scan-file</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N3ed731f6c45243278e280cebe5277eef">
+            <ns1:checksumValue>a1b0742ce18432666482fc9fc8857ff168be2973</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nf7e0924c7bc7452b9bd6a62cbd047c4a">
+            <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+      </ns1:File>
+    </ns1:referencesFile>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N20bbc44aafc34685888c9b135171a674">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N38e045c2bb554d3ea9367b737d07070e">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/scancode-acknowledgment.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/scancode-acknowledgment.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-scancode-acknowledgment</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nb0667899a7804e17a748c1e3724007f9">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Na3b4d9a7950148b98a4a0562ff761c28">
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nfb9477e5206348b28389938819ce8fe8">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nb98a7eee17df482c969fb6771423cc4e">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nb737c83fd9e5405aa6d701635204c435">
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N2ef32addf89245eb97d5c208bb7c6b0b">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nc5491a2901dd4f2e898d0cc9e7d7a91d">
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N767f7976534d422ab882bbcbbba9d99c">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nb617ceb8cc384aa8a702991848761ffc">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N601985bb7b0c4ca0966dc38d2003929e">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Ne74e4718e2ac441b83c7c1b231c05578">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nbf853e67a6d149e7adeaa37308a02114">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N5ca1bd5dfe2348e385b9447853687638">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N4ddc625048354149b60cf232d5785bd9">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nbba55c657733449490453ad94aaddfae">
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nf9bbf40040624194b511ef5d0bfaabae">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-spdx.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown-spdx</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+  </ns1:SpdxDocument>
+</rdf:RDF>

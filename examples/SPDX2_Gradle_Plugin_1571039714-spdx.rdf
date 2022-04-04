@@ -1,0 +1,1444 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+<spdx:SpdxDocument rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-DOCUMENT">
+  <spdx:specVersion>SPDX-2.1</spdx:specVersion>
+  <spdx:dataLicense rdf:resource="http://spdx.org/licenses/CC0-1.0" />
+  <spdx:creationInfo>
+    <spdx:CreationInfo>
+      <spdx:licenseListVersion>2.6</spdx:licenseListVersion>
+      <spdx:creator>Person: fossy (y)</spdx:creator>
+<!--       <spdx:creator>Organization: </spdx:creator> -->
+      <spdx:creator>Tool: spdx2</spdx:creator>
+      <spdx:created>2019-10-14T07:55:15Z</spdx:created>
+    </spdx:CreationInfo>
+  </spdx:creationInfo>
+  <spdx:name>/srv/fossology/repository/report</spdx:name>
+  <rdfs:comment>
+    This document was created using license information and a generator from Fossology.
+  </rdfs:comment>
+    <spdx:hasExtractedLicensingInfo>
+    <spdx:ExtractedLicensingInfo rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#LicenseRef-No_license_found">
+      <spdx:licenseId>LicenseRef-No_license_found</spdx:licenseId>
+      <spdx:name>No_license_found</spdx:name>
+      <spdx:extractedText><![CDATA[
+Not find any license in the scanned file
+      ]]></spdx:extractedText>
+    </spdx:ExtractedLicensingInfo>
+  </spdx:hasExtractedLicensingInfo>
+  <spdx:relationship>
+    <spdx:Relationship>
+      <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_describes" />
+      <spdx:relatedSpdxElement>
+        <spdx:Package rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-upload2">
+          <spdx:name>Gradle Plugin</spdx:name>
+          <spdx:packageFileName>Gradle Plugin</spdx:packageFileName>
+          <spdx:downloadLocation rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+          <spdx:packageVerificationCode>
+            <spdx:PackageVerificationCode>
+            <spdx:packageVerificationCodeValue>31d606abd0828b09107f7e7d8447969603bd42d6</spdx:packageVerificationCodeValue>
+            </spdx:PackageVerificationCode>
+          </spdx:packageVerificationCode>
+<!--           <spdx:checksum>
+            <spdx:Checksum>
+              <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+              <spdx:checksumValue>60bfedf244f4d3b3a62d9a93df97bb3cadf4c44a</spdx:checksumValue>
+            </spdx:Checksum>
+          </spdx:checksum> -->
+          <spdx:checksum> 
+            <spdx:Checksum>
+              <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+              <spdx:checksumValue>883d3d44c4e64f713d39da6e85da524f</spdx:checksumValue>
+            </spdx:Checksum>
+          </spdx:checksum>
+<!--           <spdx:licenseConcluded>
+            <spdx:DisjunctiveLicenseSet>
+              </spdx:DisjunctiveLicenseSet>
+          </spdx:licenseConcluded> -->
+          <spdx:licenseComments><![CDATA[
+            licenseInfoInFile determined by Scanners:
+   - nomos ("3.6.0-41-gd1a900b9d".d1a900)
+   - monk ("3.6.0-41-gd1a900b9d".d1a900)
+          ]]></spdx:licenseComments>
+          <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+          <spdx:licenseDeclared rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+          <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+          <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+          
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item4">
+                <spdx:fileName>.travis.yml</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>40cb0db14e28c099f9d8830f7083ca9cf0ad0d25</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>38a65b49c973e38c1c429ce7e8c4be26</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item5">
+                <spdx:fileName>gradlew.bat</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>bda90b3b3750f2832c14078f3780148ca1f5c37e</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>74c6bfec4e62469d2435ee970ebd9180</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item6">
+                <spdx:fileName>settings.gradle</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>d5930fc5b8a502b3330af489ab82d34601259da5</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>7892f4e198abd59a3b774924ee548fb2</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item7">
+                <spdx:fileName>LICENSE</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>1e8b6512c74fe70e1cf2c9c3ec8aa1f415e4ae72</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>246ba4cef1753c64c00ae08980702a92</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016 EACG GmbH
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item16">
+                <spdx:fileName>src/test/groovy/de/eacg/ecs/gradle/plugin/EcsPluginTest.groovy</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>1b61d2d2b93dcf9e644e26365a2d253a28172035</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>df738663ac9c11a0a0ccf9e64b737f82</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item17">
+                <spdx:fileName>src/test/groovy/de/eacg/ecs/gradle/plugin/ScanTaskTest.groovy</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>7eb3df310b49cba97d08fbeb7efcf703d03b8aa4</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>289b95b60564bdb0b16b98c278d0a854</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item18">
+                <spdx:fileName>src/test/groovy/de/eacg/ecs/gradle/plugin/ProjectPropertiesTest.groovy</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>bfc06eede80419612bbe4575acf67eed92843c56</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>acead4622a83d0020e798f848c5627f6</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item26">
+                <spdx:fileName>src/main/groovy/de/eacg/ecs/gradle/plugin/CheckTask.groovy</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>72db0d674c4d6678ed47b61c4064409d1eeceb7d</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>9fc4f7b6be49a2ce7738334d5530cc50</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item27">
+                <spdx:fileName>src/main/groovy/de/eacg/ecs/gradle/plugin/ScanTask.groovy</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>01ed430becd7d3f2b1ec17e8103b84a9419f099f</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>2b9a1af0657f0d661dc3b5d4ac5bfba9</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item28">
+                <spdx:fileName>src/main/groovy/de/eacg/ecs/gradle/plugin/EcsPlugin.groovy</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>259772a3b9805b49bb8b43faa54f41749ca5f914</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>071792394a71111446bea29a155f8142</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item29">
+                <spdx:fileName>src/main/groovy/de/eacg/ecs/gradle/plugin/EcsPluginExtension.groovy</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>d87d11c4ac2cc90fb7735f217264c9d003015d38</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>246cc60a805396b5ee6a63bd7c8b18d5</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item30">
+                <spdx:fileName>src/main/groovy/de/eacg/ecs/gradle/plugin/ProjectProperties.java</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>c0c29f544cd21f55b8018e31b158d91134ef375d</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>b1f55fa14b4211530b0fd8d34823e780</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item34">
+                <spdx:fileName>src/main/resources/META-INF/gradle-plugins/de.eacg.ecsPlugin.properties</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>cb540e8e13827b074bef54d73ea2fa929225f6aa</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>af8a046f0faa23707ad491d38fe37101</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item35">
+                <spdx:fileName>src/main/resources/META-INF/gradle-plugins/de.eacg.ecs.plugin.gradle.properties</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>6aa3434e55a5f697da13a4983b59442dc2bb0883</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>70122dbd04f75cef89948c2f8f31c12a</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item36">
+                <spdx:fileName>src/main/resources/project.properties</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>87b3048602dd43fc8b9343df43a236d527a34de2</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>17ec6a3e7554d32e1f089302b54f0319</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item37">
+                <spdx:fileName>build.gradle</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>dedb888680d49bc9cc634d4dbd023e269fadf842</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>1d2c4877992770591870207489f9b331</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText><![CDATA[
+                  Copyright (c) 2016. Enterprise Architecture Group, EACG
+                ]]></spdx:copyrightText>
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item40">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.properties</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>373caa58959331d8acf0a3aa0dbc37cd078869c0</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>b0c6ebe984e0941ed76cb18188c9c726</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item45">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/META-INF/MANIFEST.MF</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>8acf2191731e0193972f3e26285fade207df12fc</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>e3c7128a791481e913ce4ed85f9abc53</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item49">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/IDownload.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>beb27a5db4065c93a925e942e60f0c3903dcbf59</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>7a5b51417465c2208a5667e91fe38332</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item50">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/PathAssembler.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>9bf48c93701b9dcdea23c5028a9b51ae99acd053</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>ba1eb93f26868ad40c19aa600ccaae57</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item51">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>b4f4b698c8368a4e75857cb3a0e9fbb447f6b3b0</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>871da94e6d12ed23e41ce811ee3b79fc</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item52">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install$1.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>cd6de5bb256b8e693e225c17bc329a888b7f6937</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>8fc810d8f4a492545655fc3a40100578</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item53">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/BootstrapMainStarter.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>c481ee57f6cb601aaeb84ff0f24af4e0e7aa8f01</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>07ad0ee425675483b4e1a5cccffef407</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item54">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/GradleUserHomeLookup.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>77f2b6967b6de72e61510d2bc5fb3ccdabc42685</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>418e62dea975253f493b6a5f06e7e63a</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item55">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/WrapperConfiguration.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>5b0bbfc4b12c1c47c81f6b182bee07dbcb675823</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>ab458b547b2963d228371866abaab6d9</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item56">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Install.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>23dd1221fd308edfb9f552162ce99fef42fd0eb3</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>6a6d58fad36b43f2d61649f71ebd7dd3</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item57">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/ExclusiveFileAccessManager.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>7a38c537718e41ee6ad9bd7c30b88c3d633b1e32</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>1c9104324911f1f3d019a25d2b2b62dc</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item58">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$1.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>66e87e18f8a4332bac4aafcf8077665606cb5be7</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>670abb47ea81caf7fd180f2f517e57cb</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item59">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/SystemPropertiesHandler.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>9e6b798e1596fe3066f2041ee7e7eb56c9667760</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>3f7e03f2a3b1a5757b3b0a79d10c02d9</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item60">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/WrapperExecutor.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>288f1ca7305a43b8c0170752f0f563229972bd39</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>142a4b85797bb529668c9563717acc99</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item61">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/PathAssembler$LocalDistribution.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>d6249a35c3303dbafa481ce53bcd2b650ef8387c</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>0c18e40454b1b2be625d507548f9dceb</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item62">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Logger.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>613e2b8c3aeae63edcfa13354daf49e96241b9c5</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>d7b3e25514ed1cc997913bb3914319fd</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item63">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/GradleWrapperMain.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>626704668b02ac5ce3f9f901f298d4bf6443702f</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>8be20dc08006ac3a967da10fc66fe5dc</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item64">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/wrapper/Download$SystemPropertiesProxyAuthenticator.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>b37ea9001444a51fdfd0bfd49144b72f15fa32a5</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>283d0a76401ab5fbfddc42d7d8371d06</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item66">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$AfterOptions.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>080b3888540c64e44394cf27529dd0f5b811760b</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>9ecadf0e1bc273e2a1c6db42f7d3b6b5</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item67">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineOption.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>9a0538d17d2e1dfa34fd547336d3a926f8ffd4c5</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>dd92c937fa7c822a386aff8173b3b6a5</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item68">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ParsedCommandLine.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>39c3f0b732f15ee99d3e352d99510dae5fa4832e</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>2123c349824988aefce0864b5082cae5</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item69">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/AbstractCommandLineConverter.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>02fa75d90d75619d11d3d48ceb4e57148c5feb11</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>576105166f14128d9a2207195d129b8b</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item70">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineArgumentException.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>4aa73df8d7f5438c685a327ec6ee301420585692</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>7a3b85d572632461640b700b4c5ea182</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item71">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$BeforeFirstSubCommand.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>6118554dd1977928b84bcd9e4b816f2d6be98cea</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>af1a62785aef4f3b132e4b30ab8662f9</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item72">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/AbstractPropertiesCommandLineConverter.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>0a7c0b0e49e5feff68fe40437f3812e61a7c2419</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>10271f6e675b8a959ed1fab1926a077e</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item73">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$MissingOptionArgState.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>7177723b50e4e335281efa09ff8dcbafd52c528d</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>baa327f02a21c34e777cbd9137a3089f</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item74">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionStringComparator.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>ce24ed250d123dc2d971f2e88a036459b8537748</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>c5920e6f2566347bdba05a79fe2caa16</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item75">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ProjectPropertiesCommandLineConverter.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>677f67a572fd551f9075b88d62785d948b5bf8ff</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>b3175102a42bffb9cf59c9d54eea6830</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item76">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$ParserState.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>f6c9225a141d9fa9415125ae6ba96561f8cf6656</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>6db0b011b401e204c87f5e171d575495</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item77">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionParserState.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>edff4799f7ae5588aebd803d0e869b276baaa3cc</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>eadc5440a6f79c22d10387168e2dd985</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item78">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$1.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>00bd542d118211f8ef7e0ee23b5d64c212b5dd02</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>59d10b2a20c0d15a7a48d52fdbdee375</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item79">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$CaseInsensitiveStringComparator.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>c308cc4ea69b8ecaeb91d05dd316a6d29382bd06</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>a28d1bc2667940e7340e47cfda51e853</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item80">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>1528ce83a85ff9a2d67bb03484e75a2c55bfc7dd</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>4186193685dedc15dce4d1f8f0bd5a5c</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item81">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/SystemPropertiesCommandLineConverter.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>963bafd4bc15d813d1b7d122c14d22d7b4eae649</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>477e20ebffaa02c5d0bea17e89b971ae</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item82">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionAwareParserState.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>67b6d63e71b2567622d0ad8935f0259fa88ea272</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>e20798bda294b08bbe5fc8ddba36a7d6</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item83">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$KnownOptionParserState.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>132dd8756e09ef192741c5d929a4f7ab66044677</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>bf34eea4124f00a2c8b2aca87bf656d9</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item84">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionComparator.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>da9483effd3b9b869060cdf2abcb808b8acfc4b5</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>e348eae8263a47e92e176f9061eb9914</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item85">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$UnknownOptionParserState.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>0526540fb7d7d97be97d6ac01a5423a1aaa05002</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>f16a6566e70dbd9cf8a217735ed3124c</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item86">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineConverter.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>ebe27dbae07d3a7c864b52fbb6d24f15dc83b417</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>c7cb4cd979d09f32bfdbc33c59798cd3</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item87">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/ParsedCommandLineOption.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>819dff7ab143d9355508e25eb6b0b4cf7241a3d5</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>03d8bd60ee953e1902418f79cd0f915a</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item88">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$OptionString.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>11cc590002c236bb25a9d1b43d13d0bd00eb09bb</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>1cb96d23747b392908c1eb6b13b2b66a</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item89">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/org/gradle/cli/CommandLineParser$AfterFirstSubCommand.class</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>5bf6e9d6d8351b63d8b02a5c4bec84929eb22351</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>14668706049834134bfed300e0bb6267</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item90">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/gradle-wrapper-classpath.properties</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>c5649b486a4b34c7c40a3759bd51420924525f07</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>cc1b1252bdd25cde1d9e56ca86838a89</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item91">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/build-receipt.properties</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>342382d3c5bbbe8613be721d68b6638e2b895100</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>671d12ebd56a1b052ea0ca77b7b59ff9</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item92">
+                <spdx:fileName>gradle/wrapper/gradle-wrapper.jar/gradle-cli-classpath.properties</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>8fa4be376a0cf6b33bc560067a3ac77b3c9f3613</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>e6cee6d60920d56e9c7b5c1ea19987c6</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item93">
+                <spdx:fileName>README.md</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>513865594b083b1c7bc138a4f8f332bd5bb7a45b</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>f0343271d652d4bf63520d9bc896af54</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item94">
+                <spdx:fileName>release.md</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>1bda6f6920f8a372bb65bccbc6fa433270cf1c4a</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>9c3a5c5b44bcaa6c5cf04d0685b2fd24</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://1485a6ae5d2e/repo/SPDX2_Gradle_Plugin_1571039714-spdx.rdf#SPDXRef-item95">
+                <spdx:fileName>gradlew</spdx:fileName>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1" />
+                    <spdx:checksumValue>6409d6256df6b2f9e2142183b4c6408823a10f6a</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:checksum> 
+                  <spdx:Checksum>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_md5" />
+                    <spdx:checksumValue>7f1cd7eb3f75a1dc85cd37753972a6e2</spdx:checksumValue>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+                <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/NOASSERTION" />
+                <spdx:copyrightText rdf:resource="http://spdx.org/rdf/terms#noassertion" />
+              </spdx:File>
+            </spdx:hasFile>
+            
+        </spdx:Package>
+      </spdx:relatedSpdxElement>
+    </spdx:Relationship>
+  </spdx:relationship>
+  
+</spdx:SpdxDocument>
+</rdf:RDF>
