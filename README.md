@@ -5,19 +5,24 @@
 
 # Installation
 
-Install from PyPI
-
+- Clone repository
+```shell
+git clone https://github.com/TrustSource/ts-spdx-upload.git
 ```
-pip install ts-spdx-import 
+
+- Install using PIP from the local directory
+```shell
+pip3 install ./ts-spdx-upload 
 ```
 
 # Usage
 
 ## Help
 
-```
+```shell
 ts-spdx-import --help
-
+```
+```shell
 Usage: ts-spdx-import [OPTIONS] PATH
 
 Options:
@@ -31,13 +36,13 @@ Options:
 
 ## Prepare data without transfering 
 
-```
+```shell
 ts-spdx-import --skipTransfer <path to an SPDX file> 
 ```
 
 ## Prepare data and transfer to the TrustSource application  
 
-```
+```shell
 ts-spdx-import --apiKey <KEY> --projectName <NAME> <path to an SPDX file> 
 ```
 
