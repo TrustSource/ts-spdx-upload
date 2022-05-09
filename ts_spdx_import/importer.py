@@ -38,9 +38,11 @@ class SPDXImporter(Scanner):
 
     @staticmethod
     def _create_dep(pkg: Package,
-                    use_purl_as_version = True,
+                    use_purl_as_version = False,
                     parse_license_exprs = True) -> Optional[Dependency]:
         dep = None
+        meta = {}
+
         pkg_mngr_info = None
 
         for ref in pkg.pkg_ext_refs:
@@ -54,12 +56,17 @@ class SPDXImporter(Scanner):
                 purl = None
 
             if purl:
-                key = purl.type
+                key = SPDXImporter._map_purl_type(purl.type)
                 if purl.namespace:
                     key += ':' + purl.namespace
                 key += ':' + purl.name
 
-                ver = pkg.version if not use_purl_as_version else pkg_mngr_info.locator
+                if not use_purl_as_version:
+                    ver = pkg.version
+                    meta['purl'] = pkg_mngr_info.locator
+                else:
+                    ver = pkg_mngr_info.locator
+
                 dep = Dependency(key, pkg.name, versions=[ver])
 
 
@@ -73,4 +80,17 @@ class SPDXImporter(Scanner):
                 else:
                     dep.licenses = [License(lic_expr)]
 
+
+        if dep and meta:
+            dep.meta = meta
+
         return dep
+
+
+    @staticmethod
+    def _map_purl_type(ty: str):
+        # Aliasing
+        if ty == 'maven':
+            return 'mvn'
+        else:
+            return ty
