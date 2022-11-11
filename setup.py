@@ -5,7 +5,7 @@ setup(
 
     packages=['ts_spdx_import'],
 
-    version='1.0.0',
+    version='1.1.0',
 
     description='An SPDX importer for TrustSource (https://app.trustsource.io) to manage open source code compliance',
 
@@ -26,7 +26,7 @@ setup(
         'click',
         'packageurl-python',
         'license-expression',
-        'ts-python-client==1.1.0',
+        'ts-python-client==1.2.0',
         'spdx-tools @ git+https://github.com/TrustSource/tools-python.git@dev#egg=spdx-tools',
     ],
 
