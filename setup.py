@@ -26,7 +26,7 @@ setup(
         'click',
         'packageurl-python',
         'license-expression',
-        'ts-python-client>=1.3.0',
+        'ts-python-client==1.3.0',
         'spdx-tools @ git+https://github.com/TrustSource/tools-python.git@dev#egg=spdx-tools',
     ],
 
