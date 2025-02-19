@@ -1,6 +1,7 @@
-[![Gitter](https://badges.gitter.im/TrustSource/community.svg)](https://gitter.im/TrustSource/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 # TrustSource SPDX import
+
+> [!WARNING]
+> **PLEASE NOTE:** We stopped further development on this tool. You may still use it, but it will not supported anymore as such. Starting Q4/2024 we decided to focus all efforts on developing [ts-scan](https://github.com/trustsource/ts-scan), which also covers all capabilities of this solution. 
 
 
 # Installation
